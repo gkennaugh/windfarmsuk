@@ -101,6 +101,8 @@ Dashboard with several pages to explore the data on United Kindgom wind farms.
 * [![Plotly][Plotly.com]][Plotly-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
+The advantage of using plotly is everything from the front-end to the back-end is built using python. No need to learn javascript and seamlessly put online with https://pythonanywhere.com (free account to get you going). Pythonanywhere has most python packages installed on their own side so you just need to put your .py file and it should run straight away.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,10 +159,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [-] Map info (location and predicted wind speed)
+- [-] Exploratory charts for electricity generation
+- [-] Match site names from two differently named databases
+- [-] Obtain additional info from other online sources
+    - [-] Monthly electricity generation for each individual wind farm for its lifetime
+    - [-] Most recent (month) data for electricity generation
+- [ ] Add offshore wind farms
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
@@ -198,9 +203,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@twitter_handle](https://twitter.com/oriondvd)) - info@oriondvd.co.uk
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/gkennaugh/windfarmsuk](https://github.com/gkennaugh/windfarmsuk)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

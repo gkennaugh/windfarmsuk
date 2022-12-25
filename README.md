@@ -22,7 +22,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![GNU License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/gkennaugh/windfarmsuk">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/windicss.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Wind Farms UK</h3>
@@ -194,7 +194,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GNU General Public License v3.0. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -232,8 +232,8 @@ Project Link: [https://github.com/gkennaugh/windfarmsuk](https://github.com/gken
 [stars-url]: https://github.com/gkennaugh/windfarmsuk/stargazers
 [issues-shield]: https://img.shields.io/github/issues/gkennaugh/windfarmsuk.svg?style=for-the-badge
 [issues-url]: https://github.com/gkennaugh/windfarmsuk/issues
-[license-shield]: https://img.shields.io/github/license/gkennaugh/windfarmsuk.svg?style=for-the-badge
-[license-url]: https://github.com/gkennaugh/windfarmsuk/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/badge/LICENSE-GNU%20V3-blue?style=for-the-badge&logo=GNU%20Privacy%20Guard
+[license-url]: https://github.com/gkennaugh/windfarmsuk/blob/master/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
@@ -251,5 +251,5 @@ Project Link: [https://github.com/gkennaugh/windfarmsuk](https://github.com/gken
 [Laravel-url]: https://laravel.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[Plotly.com]: https://img.shields.io/badge/Plotly.com-PLOTLY-blue
+[Plotly.com]: https://img.shields.io/badge/PLOTLY-Plotly.com-blue?style=for-the-badge&logo=Plotly
 [Plotly-url]: https://plotly.com

@@ -1,0 +1,887 @@
+Area,Primary Substation Name,GSP Parent,BSP Parent,Break Fault Level vs Rating (kA),Location Latitude,Location Longitude,Location Grid Ref,Nameplate Rating (MVA),Sum of quoted generation (MVA),Minimum Load (MW),Maximum Load (MW),Contracted Generation (MVA),Available Headroom Capacity (MVA),Reverse Powerflow Capability (%),Upstream status,Transmission Works,Transmission reinforcement date,Downstream status,Distribution Works,Distribution reinforcement date,SoW needed?,Part of SWAN?,Other constraints,Voltage (kV),Site Classification
+ENGLAND,ALDERNEY,MANNINGTON GSP,BOURNEMOUTH,13.05/13.1,50.755851,-1.940832,SZ 04270 95141,24,0,3.3934049603,19.5796666327,9.27,19,50,Unconstrained,,,Constrained,,,Yes,Yes,Proximity to fault rating.,33/11,Red
+ENGLAND,ALDERSHOT,FLEET BRAMLEY,ALDERSHOT,17.18/25.0,51.232226,-0.76998103,SU 85976 48834,19.5,0,2.9721119404,13.3548825314,2.4,19,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinf required at Fleet GSP. Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinf required at Fleet GSP,33/11,Red
+ENGLAND,ALDERTON,MELKSHAM,CHIPPENHAM,3.23/13.1,51.555203,-2.2233876,ST 84609 84059,3,0,0.6488656998,3.3082611406,0,0.15,50,Constrained,,,Constrained,,,Yes,No,Constrained due to upstream thermal limitations.,33/11,Red
+ENGLAND,ALRESFORD,FLEET BRAMLEY,ALTON & FERNHURST,6.42/13.1,51.088816,-1.1491999,SU 59684 32511,13,0,2.62,12.016496,0,20,50,Constrained,,,Unconstrained,,,Yes,Yes,33kV circuit reinforcement is required for any new connction. Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,ALTON LOCAL,FLEET BRAMLEY,ALTON & FERNHURST,10.04/13.1,51.151139,-0.96575932,SU 72434 39606,37.5,0,7.13,29.466836929,0.25,5,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,ANDOVER,MELKSHAM,ANDOVER,8.78/25.0,51.217904,-1.4968164,SU 35240 46643,30,0,2.1643071175,8.5253225668,0,0,50,Constrained,,,Unconstrained,,,Yes,No,"Thermal constraint on upstream 132kV system with no remaining headroom. NG reinf works required for Melksham SGT capacity constraints, estimated connection date for new applications is 2025-2027.",33/11,Red
+ENGLAND,ANDOVER EAST,MELKSHAM,ANDOVER,8.61/13.1,51.215843,-1.4579957,SU 37953 46433,30,0,5.3984928131,19.2973725183,0,0,50,Constrained,,,Unconstrained,,,Yes,No,"Thermal constraint on upstream 132kV system with no remaining headroom. NG reinf works required for Melksham SGT capacity constraints, estimated connection date for new applications is 2025-2027.",33/11,Red
+ENGLAND,ANDOVER TOWN,MELKSHAM,ANDOVER,8.91/16.0,51.203772,-1.483129,SU 36207 45078,10,0,2.0512528419,8.21554969,0,0,50,Constrained,,,Unconstrained,,,Yes,No,"Thermal constraint on upstream 132kV system with no remaining headroom. NG reinf works required for Melksham SGT capacity constraints, estimated connection date for new applications is 2025-2027.",33/11,Red
+ENGLAND,ARBORFIELD,BRAMLEY (BASI),BASINGSTOKE T1B & T2B,4.34/13.1,51.385867,-0.90996432,SU 75949 65766,18,0,1.5126516805,0,2.44,17,50,Constrained,,,Partially Constrained,,,Yes,No,"Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.Connections might not possible prior to Bramley Green-Arborfield reconfiguration.
+Rein required at Arborfield and the 33kV circuits from Little Hungerford to accommodate connection. Voltage Issues.",33/11,Amber
+ENGLAND,ARGYLE ROAD,LOVEDEAN,CHICHESTER & HUNSTON,10.63/13.1,50.784462,-0.67938668,SZ 93193 99152,30,0,3.22,16.3475630823,0,9,50,Constrained,,,Unconstrained,,,Yes,Yes,"There is no reverse power capacity at the BSB and new generations will requier new BSP Transformer, AVC reinfocement, 33kV switchgear reinforcement at Chichester BSP",33/11,Green
+ENGLAND,ARNCOTT,COWLEY,HEADINGTON,9.24/13.1,51.858146,-1.1195824,SP 60730 18095,15,0,1.95008564,13.826099411,12.2,1,50,Constrained,,,Unconstrained,,,Yes,No,Voltage & thermal upstream limitations.,33/11,Red
+ENGLAND,ASCOT,FLEET BRAMLEY,BRACKNELL MAIN,7.91/25.0,51.411326,-0.68409816,SU 91615 68855,30,0,5.2309174538,2.7494712811,0,34,50,Unconstrained,,,Unconstrained,,,Yes,Yes,BSP 33kV CBs close to fault rating,33/11,Red
+ENGLAND,ASHLING ROAD,LOVEDEAN,CHICHESTER & HUNSTON,10.93/13.1,50.854047,-0.80681949,SU 84085 06737,26,0,5.453728199,23.5504733891,1.9,9,50,Constrained,,,Unconstrained,,,Yes,Yes,"There is no reverse power capacity at the BSB and new generations will requier new BSP Transformer, AVC reinfocement, 33kV switchgear reinforcement at Chichester BSP",33/11,Amber
+ENGLAND,ASHTON PARK,MELKSHAM,NORRINGTON,9.58/13.1,51.318628,-2.1859029,ST 87141 57741,23.5,0,3.6444571018,21.0681357812,4.175,8,50,Constrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,AVON RUBBER,MELKSHAM,NORRINGTON,8.98/13.1,51.377185,-2.1388135,ST 90435 64246,7.5,0,0.4604716003,8.4464566312,0.14,5,50,Constrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,BAGSHOT,FLEET BRAMLEY,BRACKNELL RESERVE,6.88/20.0,51.363474,-0.69255137,SU 91122 63523,24,0,3.5604376793,14.6387623617,0,28,50,Unconstrained,,,Unconstrained,,,Yes,Yes,BSP 33kV CBs close to fault rating,33/11,Red
+ENGLAND,BALL HILL,BRAMLEY (ANDO-THAT),THATCHAM,5.88/13.1,51.365765,-1.392107,SU 42417 63142,15,0,1.1288310289,7.1687759227,0,16,50,Constrained,,,Unconstrained,,,Yes,No,None known,33/11,Red
+ENGLAND,BARTON STACEY,MELKSHAM,ANDOVER,4.67/7.9,51.182169,-1.399417,SU 42075 42720,6,0,1.4790908694,6.4159248755,0,0,50,Constrained,,,Unconstrained,,,Yes,No,"Thermal constraint on upstream 132kV system with no remaining headroom. NG reinf works required for Melksham SGT capacity constraints, estimated connection date for new applications is 2025-2027.",33/11,Red
+ENGLAND,BASINGSTOKE,BRAMLEY (BASI),BASINGSTOKE T1A & T2A,11.15/13.1,51.269782,-1.0674396,SU 65155 52705,30,0,3.97,17.5525683049,12.75,18,50,Constrained,,,Unconstrained,,,Yes,No,None known,33/11,Red
+ENGLAND,BASSETT,NURSLING,VELMORE,11.06/13.1,50.941526,-1.4008417,SU 42193 15958,30,0,2.4419677258,16.7924458518,0.231,33,50,Constrained,,,Constrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,BATH ROAD EAST,NORTH HYDE,NORTH HYDE (D),5.43/13.1,51.48041,-0.43035272,TQ 09097 76885,13,0,2.2652158737,12.2233568405,0,15,50,Unconstrained,,,Unconstrained,,,No,No,None known,22/11,Green
+ENGLAND,BATH ROAD WEST,IVER 132KV,LONGFORD,13.57/13.1,51.480449,-0.47763041,TQ 05814 76820,25.1,0,6.2270178795,16.53,0,18.8,50,Unconstrained,,,Constrained,,,No,No,Proximity to fault level,33/11,Red
+ENGLAND,BEACONSFIELD (END B/B),IVER 132KV,UPTON,3.39/25.0,51.61202,-0.64865318,SU 93668 91219,6.5,0,1,4.9,0,4.25,50,Unconstrained,,,Partially Constrained,,,No,No,Moderate proximity to Primary transformers limitations under FCO.,22/6.6,Red
+ENGLAND,BEACONSFIELD (MIDDLE B/B),IVER 132KV,DENHAM,9.17/25.0,51.61202,-0.64865318,SU 93668 91219,12.9,0,3.17,11.67,0,9.6,50,Unconstrained,,,Unconstrained,,,No,No,None known,22/6.6,Green
+ENGLAND,BEENHAM,BRAMLEY (ANDO-THAT),THATCHAM,6.52/13.1,51.417262,-1.1644013,SU 58204 69025,13,0,1.3292909861,6.8129170617,1.9,7.5,50,Constrained,,,Unconstrained,,,Yes,No,Fault level reinforcement required at Thatcham 33kV. Approaching 100% loading on 132kV circuits from Bramley to Thatcham on import,33/11,Red
+ENGLAND,BEMERTON,MANNINGTON GSP,SALISBURY,8.42/20.0,51.080303,-1.8360247,SU 11583 31233,30,0,3.7555303574,15.0276830826,0,0,50,Constrained,,,Unconstrained,Bemerton-C switchgear reinforcement,01/06/21,Yes,Yes,Constrained due to upstream thermal limitations.,33/11,Green
+ENGLAND,BERINSFIELD,COWLEY,Cowley Local (2 x 45),7.76/20.0,51.654969,-1.1574654,SU 58382 95467,24,0,0.8413363099,12.9944655951,19.82,19,50,Constrained,ANM scheme triggered upstream by accepted generation,,Unconstrained,,,Yes,No,ANM installed to avoid upstream 33kV thermal issues under FCO.,33/11,Red
+ENGLAND,BEVOIS VALLEY,NURSLING,Southampton (2 x 60),8.3/25.0,50.916577,-1.3946894,SU 42648 13187,22.9,0,3.182446003,14.5217984508,1.175,24,50,Constrained,,,Constrained,,,Yes,Yes,None known,33/6.6,Green
+ENGLAND,BICESTER,EAST CLAYDON,BICESTER NORTH,11.86/16.0,51.893394,-1.1530295,SP 58381 21988,60,0,4.5934719391,24.4978088016,33.511,2,50,Constrained,,,Constrained,,,No,No,Constrained due to upstream thermal limitations.,33/11,Red
+ENGLAND,BILLINGSHURST,LOVEDEAN,CHICHESTER & HUNSTON,2.91/20.0,51.026012,-0.45704322,TQ 08305 26315,10,0,1.5607397556,9.5240208615,0,9,50,Constrained,,,Unconstrained,,,Yes,Yes,"There is no reverse power capacity at the BSB and new generations will requier new BSP Transformer, AVC reinfocement, 33kV switchgear reinforcement at Chichester BSP",33/11,Amber
+ENGLAND,BILSHAM,LOVEDEAN,CHICHESTER & HUNSTON,10.88/13.1,50.805731,-0.61956242,SU 97366 01594,30,0,3.5817759037,17.4717646413,42.172,0,50,Constrained,,,Unconstrained,,,Yes,Yes,"There is no reverse power capacity at the BSB and new generations will requier new BSP Transformer, AVC reinfocement, 33kV switchgear reinforcement at Chichester BSP",33/11,Amber
+ENGLAND,BINSTEAD ,FAWLEY,COWES & WOOTTON COMMON,8.06/13.1,50.719488,-1.2022961,SZ 56409 91399,15,0,1.2017911682,5.9003726365,0,0,50,Constrained,,,Constrained,,,No,Yes,"Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. ",33/11,Red
+ENGLAND,BIRDHAM,LOVEDEAN,CHICHESTER & HUNSTON,7.46/13.1,50.788584,-0.83856291,SZ 81965 99422,10,0,2.6652333736,11.8424419831,0,9,50,Constrained,,,Unconstrained,,,Yes,Yes,"There is no reverse power capacity at the BSB and new generations will requier new BSP Transformer, AVC reinfocement, 33kV switchgear reinforcement at Chichester BSP",33/11,Amber
+ENGLAND,BISHOPS WALTHAM,BOTLEY WOOD GSP,NETLEY COMMON,7.42/20.0,50.946805,-1.1943989,SU 56691 16683,24,0,3.2655478997,16.8712258469,7.5,19,50,Partially Constrained,,,Unconstrained,,,Yes,Yes,33kV upstream restriction on Netley Common to Bishops Waltham 33kV circts,33/11,Amber
+ENGLAND,BISHOPSTOKE,NURSLING,VELMORE,8.78/13.1,50.963804,-1.3397511,SU 46463 18472,13,0,1.3081970215,5.5201560455,7.6,14,50,Constrained,,,Constrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,BITTERNE,BOTLEY WOOD GSP,NETLEY COMMON,8.24/25.0,50.915445,-1.3595965,SU 45116 13082,13,0,2.3445842266,10.4926124588,0,14,50,Partially Constrained,,,Unconstrained,,,Yes,Yes,Proximity to voltage issues.,33/6.6,Amber
+ENGLAND,BLACK BOURTON,MINETY,Stratton (2 x 60),5.65/25.0,51.732363,-1.5909089,SP 28349 03818,10,0,1.0821535587,6.1407539527,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,Thermal constraint on Minety - Galileo 132kV cct,33/11,Red
+ENGLAND,BLANDFORD,MANNINGTON GSP,LYTCHETT,6.22/20.0,50.849233,-2.1603205,ST 88810 05536,30.7,0,3.975009203,16.2386733827,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,BSP Transformer rating under N-1,33/11,Green
+ENGLAND,BLEDINGTON,COWLEY,WITNEY & YARNTON,3.03/25.0,51.901178,-1.6287369,SP 25641 22580,5,0,1.2498111709,4.7713573908,0.188,3,50,Constrained,,,Partially Constrained,,,Yes,No,Moderate proximity to Primary transformers limitations under FCO.,33/11,Red
+ENGLAND,BORDON,FLEET BRAMLEY,ALTON & FERNHURST,9.13/13.1,51.110823,-0.82634825,SU 82256 35269,26,0,4.09,23.7986529308,0,5,50,Constrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,BOSCOMBE DOWN,BRAMLEY (ANDO-THAT),AMESBURY,10.09/13.1,51.168384,-1.7555755,SU 17186 41044,30,0,5.9565342665,20.6854764721,14,22,50,Constrained,,,Unconstrained,,,Yes,No,Connections might not be possible prior to Andover-Amesbury reconfiguration scheme. Upstream 132kV capacity for export is circa 15MVA flexible,33/11,Red
+ENGLAND,BOSCOMBE EAST,MANNINGTON GSP,CHRISTCHURCH,10.11/13.1,50.731525,-1.8364924,SZ 11636 92447,26.5,0,3.5592000484,12.8398785372,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,BOURNE VALLEY,MANNINGTON GSP,BOURNEMOUTH,8.96/13.1,50.73132,-1.9134172,SZ 06207 92415,30,0,5.4246134758,24.5350138379,0,35,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,BOURTON,MANNINGTON GSP,SHAFTESBURY,6.61/20.0,51.071236,-2.3244667,ST 77363 30262,13,0,1.5,8.8405812792,1.5,0,50,Constrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,BOVINGTON,MANNINGTON GSP,WAREHAM,6.97/13.1,50.689904,-2.2288178,SY 83933 87831,9.8,0,1.36,5.432048,5,0,50,Constrained,,,Constrained,,,Yes,Yes,BSP Transformer rating under N-1,33/11,Red
+ENGLAND,BOWERDEAN,AMERSHAM,LOUDWATER,10.27/13.1,51.636897,-0.73389355,SU 87718 93880,20,0,4.508919239,22.2,0,24.508919239,50,Unconstrained,,,Unconstrained,,,No,No,None known,33/11,Green
+ENGLAND,BRACKNELL,FLEET BRAMLEY,BRACKNELL MAIN,13.82/20.0,51.417065,-0.76360335,SU 86075 69397,76,0,12.0437774658,44.6215611927,0,85,50,Unconstrained,,,Unconstrained,,,Yes,Yes,BSP 33kV CBs close to fault rating,33/11,Red
+ENGLAND,BRADFORD-ON-AVON,MELKSHAM,NORRINGTON,8.06/25.0,51.343847,-2.2704395,ST 81260 60564,21.8,0,4.0481686592,12.4253206718,0.125,8,50,Constrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,BRAMLEY GREEN,BRAMLEY (BASI),BASINGSTOKE T1B & T2B,6.05/25.0,51.321716,-1.033725,SU 67431 58511,15,0,1.0728726459,5.0448335692,15.76,16,50,Constrained,,,Partially Constrained,,,Yes,No,Voltage issues following Arborfield switchover to Reading BSP; and 33kV circuit from Basingstoke to Bramley Green is full for export capacity,33/11,Red
+ENGLAND,BRANDON ROAD,LOVEDEAN,PORTSMOUTH,8.55/25.0,50.783957,-1.0834193,SZ 64712 98665,26,0,4.1609568596,18.0335619926,0,30,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,BRAYWICK ROAD,FLEET BRAMLEY,MAIDENHEAD,9.96/13.1,51.518471,-0.72033112,SU 88887 80726,30,0,6.2270178795,21.6535247722,0.075,17,50,Constrained,,,Unconstrained,,,Yes,Yes,"Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for export",33/11,Red
+ENGLAND,BRENTFORD,EALING,EALING (D),11.2/25.0,51.491207,-0.30664901,TQ 17659 78277,4 x 10/13, -   ,13.5,38.9, -   ,28,50,Constrained,,,Unconstrained,EALING 66kV/22kV CB to be replaced to improve fault ratings,TBC,No,No,,44887,Red
+ENGLAND,BROCKHAMPTON,LOVEDEAN,HAVANT,12.26/25,50.847642,-0.99472808,SU 70868 05828,30,0,3.7850501537,16.4424342595,16.62,18,50,Unconstrained,,,Unconstrained,Switchgear -E reinforcement due to make issue (FL results include new rating).,01/03/22,Yes,Yes,,33/11,Green
+ENGLAND,BROCKHURST,LOVEDEAN,Fareham T1A T2A (90MVAs),9.47/13.1,50.815062,-1.158483,SU 59381 02061,30,0,4.9687614441,22.4676367008,0,26,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Partialy constraint due to limited reverse power capacity,33/11,Amber
+ENGLAND,BROMHAM,MELKSHAM,NORRINGTON,2.71/13.1,51.392983,-2.0205036,ST 98670 65994,5,0,0.4256001115,2.3762266562,0.4,0,50,Constrained,,,Constrained,,,Yes,No,Constrained due to Primary transformers limitations under FCO.,33/11,Red
+ENGLAND,BROOK STREET,BRAMLEY (BASI),BASINGSTOKE T3 & T4,9.81/13.1,51.265682,-1.0915307,SU 63480 52228,30,0,3.226886034,13.7675693071,0,33,50,Constrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,BRUTON,MELKSHAM,FROME,3/25.0,51.114782,-2.4429037,ST 69094 35148,8,0,1.1583616734,5.2632115503,1.362,5,50,Constrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,BURFORD,COWLEY,WITNEY & YARNTON,5.84/13.1,51.810811,-1.6290442,SP 25671 12529,6.5,0,0.8596262336,4.3982481752,0,3,50,Constrained,,,Constrained,,,Yes,No,Limited expansion space for CB connections,33/11,Red
+ENGLAND,BUSHEY,MANNINGTON GSP,WAREHAM,2.49/13.1,50.651464,-2.0343059,SY 97671 83532,3.5,0,0.3593181074,1.6113117224,0,0,50,Constrained,,,Constrained,,,Yes,Yes,Constrained due to upstream thermal limitations.,33/11,Red
+ENGLAND,BUTTS ASH,FAWLEY,LANGLEY,11.21/25.0,50.849954,-1.4058504,SU 41923 05772,23,0,4.0141297684,16.2685364449,11.5,0,50,Constrained,,,Constrained,,,No,Yes,"Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. ",33/11,Red
+ENGLAND,CALNE,MELKSHAM,CHIPPENHAM,11.73/13.1,51.451457,-1.9938927,SU 00521 72497,21,0,1.6027144696,15.2849671283,12.5,0,50,Constrained,,,Constrained,,,Yes,No,Constrained due to upstream thermal limitations and fault level constraints ,33/11,Red
+ENGLAND,CAMBERLEY,FLEET BRAMLEY,CAMBERLEY MAIN,13.67/25.0,51.327586,-0.7587053,SU 86584 59452,80,0,8.8523216248,25.8616671491,0,85,50,Unconstrained,,,Unconstrained,,,No,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,CANAL BANK 11KV,WILLESDEN,CANAL BANK 11KV,15.9/25.0,51.533702,-0.25795373,TQ 20927 83082,2 x 30/60, -   ,23.4,60, -   ,80,95,Unconstrained,,,Partially Constrained,,,No,No,None known,22/6.6,Amber
+ENGLAND,CANAL BANK 6.6KV,WILLESDEN,ACTON LANE,12.3/13.1,51.533702,-0.25795373,TQ 20927 83082,3 x 11.5, -   ,1.6,9.1, -   ,13,50,Constrained,,,Constrained,To be made redundant and supseded by CANB 11kV,,No,No,Not applicable,66/11,Red
+ENGLAND,CARTERTON,COWLEY,WITNEY & YARNTON,8.91/13.1,51.768376,-1.5918589,SP 28261 07823,30,0,4.93,18.9176883892,0,3,50,Constrained,,,Constrained,,,Yes,No,Limited expansion space for CB connections.,33/11,Red
+ENGLAND,CASTLE CARY,AXMINSTER,YEOVIL,5.67/25.0,51.07757,-2.5076407,ST 64534 31039,15,7.5,1.1707707057,6.2598880885,5.27,7,50,Constrained,,,Unconstrained,,,Yes,Yes,"Moderate proximity to upstream 33kV circts restrictions. There is no reverse power capacity at the Yeovil BSP, 33kV circuit thermal limitation.",33/11,Red
+ENGLAND,CAUSEWAY,LALEHAM,STAINES,14.4/25.0,51.43481,-0.52304188,TQ 02763 71680,"2 x 15/30, 1 x 12/24", -   ,12.1,33.7,14.1,25,50,Partially Constrained,,,Unconstrained,,,No,No,None known,33/11,Amber
+ENGLAND,CAVERSHAM,FLEET BRAMLEY,READING TOWN,8.5/13.1,51.476173,-0.9717028,SU 71512 75747,30,0,2.7457485199,13.2250102111,0,6,50,Constrained,,,Constrained,,,Yes,Yes,"Voltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSPVoltage level constraints on the 33kV network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP",33/11,Red
+ENGLAND,CENTRAL,MANNINGTON GSP,BOURNEMOUTH,10.22/13.1,50.72691,-1.8555358,SZ 10293 91931,30,0,6.0366826057,26.8072421061,5.4,31,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Constrained due to upstream thermal limitations.,33/11,Green
+ENGLAND,CENTRAL BRIDGE,NURSLING,Southampton (2 x 60),10.27/25.0,50.899208,-1.3957251,SU 42591 11255,40,0,4.1629734039,19.3416212888,0.1455,44,50,Constrained,,,Constrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,CERNE ABBAS,CHICKERELL GSP,CHICKERELL,1.32/13.1,50.807908,-2.4819181,ST 66140 01039,2.6,0,0.2400689252,1.7635334023,0,3,50,Constrained,,,Constrained,,,No,Yes,Constrained due to Primary transformers limitations.There is no reverse power capacity at the Chickerell BSP,33/11,Red
+ENGLAND,CHALVEY,IVER 132KV,CHALVEY,13.71/25.0,51.504952,-0.60858214,SU 96669 79364,76,6,13.44,40.7,8.8,42.6,50,Unconstrained,,,Unconstrained,,,No,No,None known,33/11,Green
+ENGLAND,CHANDLERS FORD,NURSLING,VELMORE,8.41/25.0,50.99173,-1.3816586,SU 43494 21552,30,0,2.9598218517,13.1130624107,0,32,50,Constrained,,,Constrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,CHAPEL,NURSLING,Southampton (2 x 60),13.6/25.0,50.905736,-1.3919713,SU 42849 11983,15,0,2.6666288376,11.7174561305,0,17,50,Constrained,,,Constrained,,,Yes,Yes,None known,33/6.6,Green
+ENGLAND,CHARLBURY,COWLEY,WITNEY & YARNTON,6.39/13.1,51.862809,-1.478127,SP 36034 18376,15,0,1.2,5.718088,4.378,3,50,Constrained,,,Constrained,,,Yes,No,Limited expansion space for CB connections,33/11,Red
+ENGLAND,CHARMINSTER,CHICKERELL GSP,CHICKERELL,5.95/25.0,50.737358,-2.4646274,SY 67309 93186,12,0,2.1490654945,8.282455914,0,14,50,Constrained,,,Unconstrained,,,No,Yes,There is no reverse power capacity at the Chickerell BSP,33/11,Amber
+ENGLAND,CHICHESTER,LOVEDEAN,CHICHESTER & HUNSTON,13.12/25.0,50.858952,-0.69142141,SU 92198 07420,23,0,3.27,18.7348524177,16.35,9,50,Constrained,,,Unconstrained,,,Yes,Yes,"There is no reverse power capacity at the BSB and new generations will requier new BSP Transformer, AVC reinfocement, 33kV switchgear reinforcement at Chichester BSP",33/11,Amber
+ENGLAND,CHICKERELL,CHICKERELL GSP,CHICKERELL,9.48/25.0,50.623273,-2.4893718,SY 65479 80511,14.8,0,0.4825706054,9.4874502325,4.769,10,50,Constrained,,,Unconstrained,,,No,Yes,There is no reverse power capacity at the Chickerell BSP,33/11,Amber
+ENGLAND,CHILTON CANTELO,AXMINSTER,YEOVIL,7.83/20.0,50.992393,-2.601093,ST 57910 21616,9.75,0,2.4382651605,8.3432541045,0,12,50,Constrained,,,Unconstrained,,,Yes,Yes,"Moderate proximity to upstream 33kV circts restrictions.There is no reverse power capacity at the Yeovil BSP,33kV circuit thermal limitation.",33/11,Red
+ENGLAND,CHINEHAM,BRAMLEY (BASI),BASINGSTOKE T1B & T2B,9.01/25.0,51.297658,-1.0675922,SU 65105 55805,30,0,3.0308181018,16.0247500193,1.368,32,50,Constrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,CHIPPING NORTON,COWLEY,WITNEY & YARNTON,5.53/25.0,51.938753,-1.5449165,SP 31382 26792,15,0,3.4750847816,9.7817778596,0.05,3,50,Constrained,,,Unconstrained,,,Yes,No,Constrained due to upstream thermal and voltage issues.,33/11,Red
+ENGLAND,CHISBRIDGE,COWLEY,HIGH WYCOMBE,6.32/13.1,51.595539,-0.84320641,SU 80226 89155,9.8,0,2.0303218365,5.7891842703,0,1,50,Constrained,,,Constrained,,,Yes,No,Limited expansion space for CB connections. Upstream Voltage & thermal issues.,33/11,Red
+ENGLAND,CHISLEDON,MINETY,TOOTHILL,7.23/25.0,51.518014,-1.7290952,SU 18894 79934,15,0,1.0973951817,4.2246093679,0,0,50,Constrained,,,Constrained,,,Yes,Yes,thermal constraint on Minety - Galileo 132kV cct,33/11,Red
+ENGLAND,CHOBHAM,FLEET BRAMLEY,BRACKNELL RESERVE,6.6/25.0,51.359776,-0.60574616,SU 97173 63223,14.3,0,2.1094374657,11.4903141305,0,11,50,Unconstrained,,,Unconstrained,,,Yes,Yes,BSP 33kV CBs close to fault rating,33/11,Red
+ENGLAND,CHOLSEY,COWLEY,DRAYTON,5.75/13.1,51.558051,-1.1615505,SU 58223 84685,15,0,1.3488965034,6.22079412,0.3,7,50,Constrained,33kV reinforcements between Milton - Drayton,,Unconstrained,,,Yes,No,Constrained due to 33kV circts limitations under FCO.,33/11,Red
+ENGLAND,CHRISTCHURCH,MANNINGTON GSP,CHRISTCHURCH,8.87/20.0,50.737671,-1.7789084,SZ 15698 93141,39,0,5.8584260941,23.0047956557,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,CHURCH ROAD,LALEHAM,EAST BEDFONT A,7.5/13.1,51.434438,-0.46468734,TQ 06820 71722,2 x 12.5, -   ,3.2,14, -   ,9,50,Unconstrained,,,Unconstrained,,,No,No,None known,44887,Green
+ENGLAND,CIRENCESTER TOWN,MINETY,CIRENCESTER,10.43/13.1,51.706175,-1.9614436,SP 02761 00827,21,0,3.808883667,21.1539727536,1.526,0,50,Constrained,,,Constrained,,,Yes,Yes,thermal constraint on BSP transformers and upstream 132kV feeders,33/11,Red
+ENGLAND,CLARENCE ROAD,IVER 132KV,CIPPENHAM,12.21/25.0,51.480746,-0.62393586,SU 95654 76652,45,0,8.0497722626,31.8963317514,0,30.6,50,Unconstrained,,,Unconstrained,,,No,No,None known,33/11,Green
+ENGLAND,COCKLEBURY,MELKSHAM,CHIPPENHAM,12.86/13.1,51.46393,-2.1101146,ST 92447 73890,35.5,0,4.7210855484,16.3493307006,0,0,50,Constrained,,,Constrained,,,Yes,No,fault level constraint,33/11,Red
+ENGLAND,CODFORD,MELKSHAM,FROME,3.66/25.0,51.155279,-2.0389563,ST 97372 39559,5,0,1.6730632935,3.5067521954,2,0,50,Constrained,,,Partially Constrained,,,Yes,No,Constrained due to 33kV CROC - CODF cct thermal and voltage limitations.,33/11,Red
+ENGLAND,COKES LANE,IVER 132KV,DENHAM,10.94/13.1,51.66737,-0.56643504,SU 99240 97483,16.2,0,0.9209706783,8.3029195592,0,9,50,Unconstrained,,,Unconstrained,,,No,No,None known,22/6.6,Green
+ENGLAND,COLLEGE PARK,LOVEDEAN,WYMERING & FORT WIDLEY,9.05/13.1,50.819978,-1.0659487,SU 65893 02686,13,0,2.0957200527,10.4527208055,0,15,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,CORDWALLIS,FLEET BRAMLEY,MAIDENHEAD,9.27/13.1,51.528732,-0.72872194,SU 88285 81857,30,0,6.5538878441,21.5431923413,0,17,50,Constrained,,,Constrained,,,Yes,Yes,"Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for export",33/11,Red
+ENGLAND,CORFE MULLEN,MANNINGTON GSP,LYTCHETT,8.55/13.1,50.764227,-2.0214576,SY 98583 96071,30,0,2.654270486,13.1184815947,1.15,0,50,Constrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,CORSHAM,MELKSHAM,NORRINGTON,8.1/13.1,51.425098,-2.1917286,ST 86766 69583,10,0,2.6303482056,9.9176938609,2,5,50,Constrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,COTTISFORD,EAST CLAYDON,BICESTER NORTH,2.29/13.1,51.975494,-1.1421653,SP 59021 31128,2.5,0,0.2507933333,3.310472,0,0,50,Constrained,,,Unconstrained,,,No,No,Constrained due to upstream thermal limitations.,33/11,Red
+ENGLAND,COURAGES,FLEET BRAMLEY,BURGHFIELD MAIN,10.43/13.1,51.420707,-0.98045501,SU 70990 69570,26.5,0,4.9130580053,15.00869652,5.7,25,50,Constrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,COVE,FLEET BRAMLEY,CAMBERLEY RESERVE,7.61/13.1,51.296164,-0.77631976,SU 85415 55937,24,0,2.9578230381,10.0124034042,0,26,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,COWES POWER STATION,FAWLEY,COWES & WOOTTON COMMON,9.42/13.1,50.746401,-1.2850965,SZ 50535 94332,30,0,4.2794657351,21.3070990967,0,0,50,Constrained,,,Constrained,,,No,Yes,"Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. ",33/11,Red
+ENGLAND,COWLEY LOCAL,COWLEY,Cowley Local (2 x 90),11.14/25.0,51.723588,-1.1890402,SP 56113 03074,30,0,6.7558926557,26.721840063,0.709,35,50,Unconstrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,COXMOOR WOOD,FLEET BRAMLEY,COXMOOR WOOD,4.99/16.0,51.250818,-0.87983124,SU 78275 50779,9.5,0,1.8289920092,7.678912596,0,5,50,Constrained,,,Unconstrained,,,Yes,Yes,Limited headroom at BSP circa 15MVA,33/11,Amber
+ENGLAND,CREEKMOOR,MANNINGTON GSP,LYTCHETT,10.94/13.1,50.746693,-1.9935414,SZ 00552 94121,26,0,3.5582959652,15.8743365788,1.024,0,50,Constrained,,,Unconstrained,,,Yes,Yes,BSP Transformer rating under N-1,33/11,Red
+ENGLAND,CRICKLADE,MINETY,CIRENCESTER,6.21/20.0,51.638158,-1.8655681,SU 09400 93270,15,0,1.8411852121,10.9176295486,0,0,50,Constrained,,,Partially Constrained,,,Yes,Yes,"thermal constraint on 33kV system, BSP transformers and upstream 132kV feeders.",33/11,Red
+ENGLAND,CROCKERTON,MELKSHAM,FROME,7.25/13.1,51.189429,-2.1768679,ST 87736 43371,14,0,2.9644668571,11.7460959305,1,8,50,Unconstrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,CROOKHAM ,FLEET BRAMLEY,COXMOOR WOOD,11.05/25.0,51.273928,-0.83014011,SU 81702 53403,24,0,2.1947903633,12.5813356302,0,24,50,Constrained,,,Unconstrained,,,Yes,Yes, No  headroom on the 132kV circuit from Bramley to Andover which feeds Amesbury BSP cause constraint for this Primary for new connctions.,33/11,Green
+ENGLAND,CROWTHORNE,FLEET BRAMLEY,CAMBERLEY MAIN,10.96/25.0,51.371953,-0.78787716,SU 84470 64352,30,0,5.3414068222,22.6698486094,0,34,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,DEAN GARDENS,EALING,EALING (D),4.2/13.1,51.51023,-0.32198298,TQ 16546 80368,1 x 10/12.5, -   ,0.6,5.7,0.2,7,50,Constrained,,,Unconstrained,EALING 66kV/22kV CB to be replaced to improve fault ratings,TBC,No,No,,44887,Red
+ENGLAND,DEDDINGTON,COWLEY,WITNEY & YARNTON,3.87/13.1,51.969442,-1.3212094,SP 46729 30325,4,0,0.868642807,4.3857067694,0.05,3,50,Constrained,,,Constrained,,,Yes,No,Constrained due to upstream thermal and voltage issues.,33/11,Red
+ENGLAND,DENHAM AVENUE,IVER 132KV,DENHAM,12.50/13.1,51.568618,-0.50430999,TQ 03761 86587,13,0,3.48,1.03,0,10,50,Unconstrained,,,Partially Constrained,,,No,No,Moderate proximity to fault rating,22/6.6,Amber
+ENGLAND,DEVIZES,MELKSHAM,NORRINGTON,8.83/13.1,51.347954,-1.9998646,SU 00106 60986,21,0,7.0416193008,23.3608393233,1.468,0,50,Constrained,,,Unconstrained,,,Yes,No,33kV system voltage and thermal constraints.,33/11,Red
+ENGLAND,DORCAN SOUTH ,MINETY,TOOTHILL,6.80/13.1,51.550424,-1.7232207,SU 19288 83540,22,0,3.4692316055,14.1063834481,0,0,50,Constrained,,,Constrained,,,Yes,Yes,thermal constraint on Minety - Galileo 132kV cct,33/11,Red
+ENGLAND,DORCHESTER,CHICKERELL GSP,CHICKERELL,8.33/13.0,50.712414,-2.4388297,SY 69113 90401,21,0,4.8781442642,18.0432005976,1.995,3,50,Constrained,,,Unconstrained,,,No,Yes,Upstream 33kV circts restrictions under FCO. Potential Voltage issue for new connections.There is no reverse power capacity at the Chickerell BSP,33/11,Red
+ENGLAND,DOWN GRANGE,BRAMLEY (BASI),BASINGSTOKE T1B & T2B,9.30/13.1,51.247996,-1.1187578,SU 61604 50238,30,0,4.4037104,21.8969793424,0,18,50,Constrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,DRAKES WAY,MINETY,Stratton (2 x 90),8.22/13.1,51.569444,-1.7575741,SU 16899 85647,15,0,1.5052288771,7.3992562654,0,7,50,Unconstrained,,,Unconstrained,33kV CB reinforcement ,45382,Yes,No,None known,33/11,Green
+ENGLAND,DUNBRIDGE,NURSLING,WINCHESTER,5.15/13.1,51.034698,-1.5518549,SU 31520 26244,9.8,0,1.8842618465,7.2254689905,0.044,0,50,Constrained,,,Constrained,,,Yes,Yes,Proximity to voltage issues.,33/11,Amber
+ENGLAND,EAST HOWE,MANNINGTON GSP,REDHILL,10.33/13.1,50.755602,-1.9051219,SZ 06789 95116,30,0,4.6321940422,22.8923766195,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,BSP Transformer rating under N-1,33/11,Green
+ENGLAND,EASTERTON,MELKSHAM,NORRINGTON,6.45/13.1,51.2917,-1.9788981,SU 01568 54730,15,0,1.7471698523,9.3865734998,0.23,0,50,Constrained,,,Constrained,,,Yes,No,Upstream 33kV system constraints.,33/11,Red
+ENGLAND,EASTHAMPSTEAD,FLEET BRAMLEY,BRACKNELL RESERVE,8.97/25.0,51.39725,-0.76308822,SU 86148 67194,30,0,4.7007880211,18.955425568,0,30,50,Unconstrained,,,Unconstrained,,,Yes,Yes,BSP 33kV CBs close to fault rating,33/11,Amber
+ENGLAND,EASTLEIGH NORTH,NURSLING,VELMORE,10.92/16.0,50.968257,-1.3544561,SU 45426 18958,40,0,7.1049633026,31.7280838801,3.92,43,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,EASTNEY,LOVEDEAN,PORTSMOUTH,8.87/13.1,50.787143,-1.0600205,SZ 66357 99040,20,0,1.7791479826,8.1830537155,0,21,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,EGHAM,LALEHAM,STAINES,10.1/20.0,51.43264,-0.54804278,TQ 01030 71404,2 x 15/30, -   ,9.2,27.1, -   ,36,95,Partially Constrained,,,Unconstrained,,,No,No,None known,33/11,Amber
+ENGLAND,ELECTRIC HOUSE,MANNINGTON GSP,BOURNEMOUTH,11.84/13.1,50.721971,-1.8773104,SZ 08757 91379,26,0,4.510537451,16.0283365151,0.25,31,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,ELMS ROAD,FLEET BRAMLEY,WOKINGHAM,10.11/25.0,51.410027,-0.83594476,SU 81057 68532,30,0,4.5419969559,21.1396441005,45.4,34,50,Constrained,,,Unconstrained,,,Yes,Yes,BSP approaching transformer reverse power capacity. ,33/11,Amber
+ENGLAND,EMSWORTH,LOVEDEAN,HAVANT,8.14/25.0,50.846951,-0.93802413,SU 74861 05807,13,0,2.5148639679,11.1645375483,0.865,14,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,ENFORD,BRAMLEY (ANDO-THAT),AMESBURY,4.05/25.0,51.264402,-1.8046286,SU 13728 51712,8,0,0.3810400069,3.1502372653,0,8,50,Constrained,,,Constrained,,,Yes,No,Constrained due to Primary transformers limitations. Connections might not be possible prior to Andover-Amesbury reconfiguration scheme. Upstream 132kV capacity for export is circa 15MVA flexible,33/11,Red
+ENGLAND,EYNSHAM,COWLEY,WITNEY & YARNTON,6.82/25.0,51.789462,-1.3890547,SP 42236 10266,24,0,3.9750094414,12.3355662907,1,3,50,Constrained,,,Constrained,,,Yes,No,Limited expansion space for CB connections,33/11,Red
+ENGLAND,FAIRFORD,MINETY,CIRENCESTER,7.59/25.0,51.70359,-1.7927605,SP 14418 00559,15,0,2.0118911266,9.0907591277,0,0,50,Constrained,,,Constrained,,,Yes,Yes,thermal constraint on BSP transformers and upstream 132kV feeders,33/11,Red
+ENGLAND,FARINGDON,MINETY,Stratton (2 x 60),6.12/25.0,51.652374,-1.5848353,SU 28819 94924,10.5,5.07,2.804454565,12.5284688361,0,0,50,Constrained,,,Constrained,,,Yes,Yes,thermal constraint on Minety - Galileo 132kV cct,33/11,Red
+ENGLAND,FARLINGTON,LOVEDEAN,WYMERING & FORT WIDLEY,11.23/13.1,50.839199,-1.0441625,SU 67400 04843,26,0,1.9017113026,10.9216177259,0,25,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,FARNBOROUGH,FLEET BRAMLEY,CAMBERLEY RESERVE,7.18/13.1,51.277666,-0.73395721,SU 88404 53930,30,0,3.9420337677,15.7868070352,0,34,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,FARNHAM,FLEET BRAMLEY,ALDERSHOT,10.43/13.1,51.217907,-0.79125349,SU 84517 47217,22,0,3.882868815,20.0338137242,0,20,50,Unconstrained,,,Constrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,FARNHAM ROYAL,IVER 132KV,SLOUGH,13.25/25.0,51.536415,-0.62307975,SU 95597 82844,48,0,7.06,27.79,12,19,50,Unconstrained,,,Unconstrained,,,No,No,None known,33/11,Green
+ENGLAND,FELTHAM,LALEHAM,EAST BEDFONT A,12.1/13.1,51.443496,-0.40958817,TQ 10628 72811,3 x 12.5, -   ,3.7,11.2, -   ,16,50,Unconstrained,,,Unconstrained,,,No,No,None known,22/6.6,Green
+ENGLAND,FERNDOWN,MANNINGTON GSP,MANNINGTON,11.38/13.0,50.805684,-1.9078023,SU 06593 00685,45,0,5.5328011513,24.0056013269,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,BSP Transformer rating under N-1,33/11,Red
+ENGLAND,FIVE OAKS,FLEET BRAMLEY,ALTON & FERNHURST,8.54/13.1,51.050213,-0.42282521,TQ 10647 29057,15,0,1.88,9.9253257143,11.4,5,50,Constrained,,,Constrained,,,Yes,Yes,Constrained due to Primary transformers limitations. Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,FLACKWELL HEATH,AMERSHAM,LOUDWATER,11.45/13.1,51.595422,-0.69247181,SU 90667 89318,26.7,0,1.9281777143,12.01,1.4,27.2281777143,50,Unconstrained,,,Unconstrained,,,No,No,None known,33/11,Green
+ENGLAND,FLETCHWOOD,NURSLING,ROWNHAMS,7.7/25.0,50.907764,-1.5206463,SU 33800 12142,30,0,4.4657888412,17.6428332353,0,31,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,FORDINGBRIDGE,MANNINGTON GSP,MANNINGTON,6.41/13.1,50.938981,-1.8011404,SU 14069 15523,15,0,1.5593708754,7.0552441268,0,0,50,Constrained,,,Constrained,,,Yes,Yes,No spare bay.BSP Transformer rating under N-1,33/11,Red
+ENGLAND,FRATTON PARK,LOVEDEAN,PORTSMOUTH,11.20/13.1,50.797418,-1.0629078,SU 66139 00180,34,0,5.9886350632,24.5864716204,0,40,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,FRENCHAY ROAD,COWLEY,OXFORD (Osney),10.28/13.1,51.770715,-1.2706149,SP 50426 08256,19.5,0,2.8547766209,10.4707683039,0,11,50,Unconstrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,FRESHWATER,FAWLEY,COWES & WOOTTON COMMON,6.3/25.0,50.681336,-1.5155246,SZ 34325 86965,15,0,1.42,6.5787573333,0.45,0,50,Constrained,,,Constrained,,,No,Yes,"Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. ",33/11,Red
+ENGLAND,FRIMLEY,FLEET BRAMLEY,CAMBERLEY RESERVE,7.79/12.5,51.313835,-0.74241777,SU 87745 57942,30,0,4.7762236595,24.4058841765,1.4,33,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Green
+ENGLAND,FROME,MELKSHAM,FROME,11.48/25,51.231249,-2.3042947,ST 78850 48051,46,0,7.480437088,28.7826569301,2.72,10,50,Unconstrained,,,Unconstrained,11kV CB reinforcement,T232,Yes,No,None known,33/11,Green
+ENGLAND,FRYERS LANE,COWLEY,HIGH WYCOMBE,11.8/13.1,51.637261,-0.77409884,SU 84935 93873,26,0,2.869312048,14.9709888858,0,21,50,Unconstrained,,,Unconstrained,,CB reinforcement,Yes,No,None known,33/11,Green
+ENGLAND,FULSCOT,COWLEY,DRAYTON,10.73/13.1,51.601819,-1.2157563,SU 54413 89511,21,0,2.91,16.3732617873,7.56,7,50,Constrained,33kV reinforcements between Milton - Drayton,,Unconstrained,,,Yes,No,Constrained due to 33kV circts limitations under FCO.,33/11,Red
+ENGLAND,FYFIELD,COWLEY,WITNEY & YARNTON,4.83/25.0,51.693127,-1.3900627,SU 42256 99551,15,0,2.0576159954,9.5202165998,0,3,50,Constrained,,,Unconstrained,,,Yes,No,Constrained due to upstream thermal limitations.,33/11,Red
+ENGLAND,GABLE HEAD,LOVEDEAN,HAVANT,8.4/13.1,50.794214,-0.97691849,SZ 72204 99904,30,0,2.5379021168,12.7307625154,0.24,32,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,GAMBLE ROAD,LOVEDEAN,WYMERING & FORT WIDLEY,9.34/25.0,50.811859,-1.0820361,SU 64771 01769,30,0,5.1669025421,19.0092375417,0.8,25,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,GERRARDS CROSS,IVER 132KV,DENHAM,13.10/25.0,51.581679,-0.5585536,SU 99973 87964,15.2,0,3.9,14.5,0,11.5,50,Unconstrained,,,Unconstrained,,,No,No,None known,22/6.6,Green
+ENGLAND,GILLINGHAM,MANNINGTON GSP,SHAFTESBURY,6.53/25.0,51.030903,-2.2839422,ST 80185 25765,30,0,1.2193280458,7.4361168921,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,BSP Transformer rating under N-1,33/11,Red
+ENGLAND,GODALMING,FLEET BRAMLEY,ALDERSHOT,6.91/13.1,51.190421,-0.6170161,SU 96743 44375,30,0,4.5973000526,19.7005207676,0,30,50,Constrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinf required at Fleet GSP. Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinf required at Fleet GSP,33/11,Red
+ENGLAND,GOLDSMITHS,WILLESDEN,ACTON LANE,12.1/13.1,51.512781,-0.25641724,TQ 21089 80758,2 x 11.5, -   ,3,12.2, -   ,9,50,Unconstrained,,,Partially Constrained,,,No,No,CB fault ratings close to the limit,22/6.6,Amber
+ENGLAND,GORDON ROAD,NURSLING,WINCHESTER,8.05/25.0,51.067234,-1.3132488,SU 48217 29991,30,0,5.697924614,23.8982471124,0,0,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,GORING,FLEET BRAMLEY,BURGHFIELD RESERVE,6.63/25.0,51.54174,-1.1318284,SU 60305 82895,15,0,2.036277771,6.0248655823,0,8,50,Constrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,GRASSINGHAM ROAD,IVER 132KV,DENHAM,12.41/13.1,51.608826,-0.55492123,TQ 00165 90988,26,0,4.2615828514,13.2,0,17.3,50,Unconstrained,,,Constrained,,,No,No,Moderate proximity to fault rating. ,22/6.6,Amber
+ENGLAND,GREENFORD,WILLESDEN,GREENFORD,11.1/20.0,51.541319,-0.34753219,TQ 14695 83785,2 x 30/60, -   ,18.4,46.7,1,49,50,Unconstrained,,,Unconstrained,,,No,No,None known,66/11,Green
+ENGLAND,GREENHAM COMMON,BRAMLEY (ANDO-THAT),THATCHAM,8.29/25.0,51.376151,-1.283955,SU 49935 64365,24,0,2.7280566788,6.5633163341,0,26,50,Constrained,,,Unconstrained,,,Yes,No,Fault level reinforcement required at Thatcham 33kV. Approaching 100% loading on 132kV circuits from Bramley to Thatcham on import,33/11,Green
+ENGLAND,GREETHAM STREET,LOVEDEAN,PORTSMOUTH,9.05/13.1,50.79759,-1.0869413,SU 64445 00178,30,0,3.4623613358,12.9501615825,0.2,33,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,GROVE,COWLEY,DRAYTON,7.23/13.1,51.603958,-1.4308355,SU 39515 89611,15,0,5.1001955011,21.0773271085,0,7,50,Unconstrained,,,Constrained,,,Yes,No,Limited space for extension. Upstream thermal issues.,33/11,Red
+ENGLAND,GUSSAGE ST MICHAEL,MANNINGTON GSP,SHAFTESBURY,2.42/16.0,50.902226,-2.0207396,ST 98638 11417,3,0,0.2743487954,1.5737196636,0,0,50,Constrained,,,Constrained,,,Yes,Yes,Constrained due to Primary transformers limitations under FCO.,33/11,Red
+ENGLAND,HAMBLE,BOTLEY WOOD GSP,NETLEY COMMON,10.62/20.0,50.876708,-1.3280906,SU 47370 08794,30,7.6,5.8013339043,15.9992346922,12.2,24,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,HAMWORTHY,MANNINGTON GSP,POOLE PS (HAMWORTHY),8.4/13.1,50.716829,-1.9998911,SZ 00104 90800,22.9,0,4.0334935188,16.629657708,0,0,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,HAREFIELD,IVER 132KV,DENHAM,9.34/25.0,51.61028,-0.49947511,TQ 04001 91227,10,0,1.2961239707,4.9,0,6.3,50,Unconstrained,,,Unconstrained,,,No,No,None known,22/6.6,Green
+ENGLAND,HARESTOCK,NURSLING,WINCHESTER,7.31/25.0,51.079193,-1.3460335,SU 45908 31300,24.3,0,4.4749336243,16.9759596521,0.47,0,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,HARVARD LANE,EALING,EALING (D),9.0/13.1,51.488491,-0.27272747,TQ 20021 78030,"2 x 10/12,5
+1 x 12/242 x 10/12,5
+1 x 12/242 x 10/12,5
+1 x 12/242 x 10/12,5
+1 x 12/242 x 10/12,5
+1 x 12/242 x 10/12,5
+1 x 12/242 x 10/12,5
+1 x 12/242 x 10/12,5
+1 x 12/242 x 10/12,5
+1 x 12/242 x 10/12,5
+1 x 12/242 x 10/12,5
+1 x 12/242 x 10/12,5
+1 x 12/242 x 10/12,5
+1 x 12/242 x 10/12,5
+1 x 12/242 x 10/12,5
+1 x 12/242 x 10/12,5
+1 x 12/242 x 10/12,5
+1 x 12/24", -   ,10.6,26.4,1.6,19,50,Constrained,,,Unconstrained,EALING 66kV/22kV CB to be replaced to improve fault ratings,TBC,No,No,,44887,Red
+ENGLAND,HASLEMERE,FLEET BRAMLEY,ALTON & FERNHURST,8.96/25.0,51.077775,-0.72662903,SU 89300 31710,21.4,0,4.6334466934,19.1519268328,0,5,50,Constrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,HASLINGBOURNE,FLEET BRAMLEY,ALTON & FERNHURST,2.86/25.0,50.973539,-0.60288554,SU 98188 20276,13,0,1.5663479567,7.5891566468,0,5,50,Constrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,HAWKERIDGE,MELKSHAM,FROME,13.41/25.0,51.276215,-2.196039,ST 86422 53026,15,18.3,3.2617712021,13.3370269192,15.34,0,50,Constrained,,,Unconstrained,,,Yes,No,33kV system thermal constraint.,33/11,Red
+ENGLAND,HAWLEY,FLEET BRAMLEY,COXMOOR WOOD,3.77/13.1,51.311848,-0.76789653,SU 85973 57691,23,0,2.4681317806,12.335030048,0,25,50,Constrained,,,Unconstrained,,,Yes,Yes,Limited headroom at BSP circa 15MVA,33/11,Amber
+ENGLAND,HEADINGTON,COWLEY,HEADINGTON,13.81/25.0,51.768803,-1.2124754,SP 54440 08085,40,0,4.3743391037,17.2973251409,3.6,11,50,Constrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,HEDGE END,NURSLING,VELMORE,6.3/20.0,50.938532,-1.3035037,SU 49035 15685,14.2,0,1.9509248734,12.3068846498,0,16,50,Unconstrained,,,Unconstrained,Split Hedge End-Bishops Waltham,30/01/20,Yes,Yes,None known,33/11,Green
+ENGLAND,HENLEY,FLEET BRAMLEY,READING,7.94/25.0,51.535587,-0.90464784,SU 76070 82422,30,0,4.2866997719,16.74799495,0,34,50,Constrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,HENSTRIDGE,AXMINSTER,YEOVIL,3.92/25.0,50.972128,-2.3905287,ST 72676 19263,24,0,0.8126218215,10.6807497748,4.23,20,50,Constrained,,,Unconstrained,,,Yes,Yes,"Moderate Proximity to thermal rating on short section of 132kV circt Axminster-Yeovil under FCO,There is no reverse power capacity at the Yeovil BSP",33/11,Red
+ENGLAND,HERRIARD,FLEET BRAMLEY,ALTON & FERNHURST,4.88/16.0,51.200071,-1.0457323,SU 66770 44972,7.5,0,0.27,1.5244885333,7.4,0,50,Constrained,,,Constrained,,,Yes,Yes,Constrained due to transformers limitations. 33kV circuit reinf is required for any new connection. Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinf required at Fleet GSP,33/11,Red
+ENGLAND,HIGH WYCOMBE,COWLEY,HIGH WYCOMBE,9.01/13.1,51.622252,-0.77742129,SU 84733 92200,30,0,6.019235611,21.2399451141,1.07,21,50,Unconstrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,HIGH WYCOMBE TOWN,COWLEY,HIGH WYCOMBE,13.18/13.1,51.628953,-0.7545438,SU 86304 92972,46.3,0,5.6870222092,27.0851120888,0,21,50,Unconstrained,,,Constrained,,,Yes,No,Proximity to fault rating,33/11,Red
+ENGLAND,HILLINGDON,IVER 66KV,,13.14/25.0,51.534129,-0.451964,TQ 07470 82827,40,0,9.4010190964,34.814659142,0,50,50,Unconstrained,,,Unconstrained,,,No,No,None known,66/11,Green
+ENGLAND,HILSEA,LOVEDEAN,WYMERING & FORT WIDLEY,8.56/13.1,50.829991,-1.0586351,SU 66394 03806,30,0,2.6596591473,14.2038078351,0.327,25,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,HINCHESLEA,MANNINGTON GSP,ARNEWOOD,7.06/13.1,50.802919,-1.6067932,SU 27805 00447,15,0,1.7985088825,6.7150517296,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,HINDHEAD,FLEET BRAMLEY,ALDERSHOT,5.74/20.0,51.120751,-0.7350071,SU 88631 36479,21,0,2.7434880733,13.1218260045,0,16.8,50,Constrained,,,Unconstrained,,,Yes,Yes,33kV circuit rating is 16.8MVA in summer. Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Green
+ENGLAND,HINTON MARTELL,MANNINGTON GSP,MANNINGTON,2.64/7.9,50.853785,-1.9913963,SU 00702 06030,4,0,0.3286469877,1.9366510284,0,0,50,Constrained,,,Constrained,,,Yes,Yes,Constrained due to Primary transformers limitations under FCO.,33/11,Red
+ENGLAND,HITCHES LANE,FLEET BRAMLEY,COXMOOR WOOD,8.55/13.1,51.286525,-0.86195584,SU 79461 54769,40,0,5.0280716977,22.42922122,4.26,0,50,Constrained,,,Constrained,,,Yes,Yes,Limited headroom at BSP circa 15MVA,33/11,Red
+ENGLAND,HOEFORD,LOVEDEAN,Fareham T1A T2A (90MVAs),10.07/13.1,50.836544,-1.1797679,SU 57855 04433,19.5,0,3.93,17.2255486891,0.5,23,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Partialy constraint due to limited reverse power capacity,33/11,Amber
+ENGLAND,HOLES BAY,MANNINGTON GSP,LYTCHETT,9.86/25.0,50.727215,-1.9910929,SZ 00725 91955,30,0,1.0526278019,20.5572628646,7.87,0,50,Constrained,,,Unconstrained,,,Yes,Yes,BSP Transformer rating under N-1,33/11,Red
+ENGLAND,HOLWELL,MELKSHAM,FROME,7.12/25.0,51.200229,-2.3993971,ST 72191 44633,15,0,1.3717440367,10.5682835657,1,0,50,Constrained,,,Unconstrained,,,Yes,No,33kV system thermal constraint.,33/11,Red
+ENGLAND,HOMINGTON,MANNINGTON GSP,SALISBURY,3.97/25.0,51.033577,-1.8339219,SU 11742 26037,15,0,1.5607397556,5.408544558,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,Constrained due to upstream thermal limitations.,33/11,Red
+ENGLAND,HOOK,FLEET BRAMLEY,COXMOOR WOOD,8.61/25.0,51.278548,-0.96049275,SU 72602 53780,30,0,3.4071264267,14.0441527758,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,Fault level at Burghfield BSP is at it's limit. Reinforcement required to uprate the 33kV switchboard at Burghfield.,33/11,Green
+ENGLAND,HOPE AND ANCHOR,LALEHAM,EAST BEDFONT A,7.7/13.1,51.436309,-0.37988329,TQ 12710 72057,1 x 12.5, -   ,0.5,2.6, -   ,7,50,Unconstrained,,,Unconstrained,,,No,No,None known,22/6.6,Green
+ENGLAND,HORNDEAN,LOVEDEAN,HAVANT,4.95/13.1,50.910418,-1.0018684,SU 70271 12802,30,0,3.1135089397,22.1944434637,8,24,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,HOUGHTON,NURSLING,WINCHESTER,3.42/25.0,51.083998,-1.5190566,SU 33784 31741,9.8,0,1.5546431541,6.8871551873,5,0,50,Partially Constrained,,,Unconstrained,,,Yes,Yes,Proximity to voltage issues.,33/11,Amber
+ENGLAND,HOUNDMILLS,BRAMLEY (BASI),BASINGSTOKE T3 & T4,9.72/25.0,51.27174,-1.1099464,SU 62187 52886,40,0,6.2795391083,17.6439975871,2.5,0,50,Constrained,,,Unconstrained,,,Yes,No,Fault level at Burghfield BSP is at it's limit. Reinforcement required to uprate the 33kV switchboard at Burghfield.,33/11,Green
+ENGLAND,HUNGERFORD,BRAMLEY (ANDO-THAT),THATCHAM,5.83/13.1,51.41861,-1.5114998,SU 34066 68957,13,0,1.71,9.0353745566,0,0,50,Constrained,,,Constrained,,,Yes,No,Fault level at Burghfield BSP is at it's limit. Reinforcement required to uprate the 33kV switchboard at Burghfield.,33/11,Red
+ENGLAND,HUNSTON,LOVEDEAN,CHICHESTER & HUNSTON,12.08/25.0,50.816718,-0.76711474,SU 86949 02632,30,0,4.799905852,28.878818058,12,5.36,50,Constrained,,,Partially Constrained,AVC Upgrade,01/09/22,Yes,Yes,"There is no reverse power capacity at the BSB and new generations will requier new BSP Transformer, AVC reinfocement, 33kV switchgear reinforcement at Chichester BSP",33/11,Amber
+ENGLAND,HURSTBOURNE TARRANT,MELKSHAM,ANDOVER,4.2/25.0,51.270081,-1.4368458,SU 39384 52476,5,0,1.1431200504,5.4588572653,0,0,50,Constrained,,,Unconstrained,,,Yes,No,"Thermal constraint on upstream 132kV system with no remaining headroom. NG reinforcement works required for Melk SGT capacity constraints, estimated connection date for new applications is 2025-2027.",33/11,Red
+ENGLAND,JAYS CLOSE,BRAMLEY (BASI),BASINGSTOKE T1A & T2A,14.08/20.0,51.246642,-1.0979948,SU 63055 50105,40,0,7.901245594,30.9729689945,4,37,50,Constrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,KENNINGTON,COWLEY,Cowley Local (2 x 45),4.30/13.1,51.706101,-1.2361258,SP 52881 01094,6,0,0.7286180854,6.7732884982,0.4,6,50,Unconstrained,,,Constrained,,,Yes,No,Limited space for extension.,33/11,Red
+ENGLAND,KENTWOOD HILL,FLEET BRAMLEY,BURGHFIELD MAIN,10.71/16.0,51.461438,-1.0355136,SU 67102 74048,21.9,0,4.2234416008,19.3328437811,0,28,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,KIDDINGTON,COWLEY,WITNEY & YARNTON,6.2/13.1,51.915557,-1.3709747,SP 43362 24301,24,0,2.2929660889,10.9434345199,0.179,3,50,Constrained,,,Unconstrained,,,Yes,No,Upstream voltage constraints.,33/11,Red
+ENGLAND,KIDMORE END,FLEET BRAMLEY,READING,3.7/25.0,51.498466,-0.99366056,SU 69953 78205,14.2,0,1.5394016504,8.0602600423,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,KINGS RIDE,FLEET BRAMLEY,CAMBERLEY MAIN,10.43/13.1,51.346119,-0.74431997,SU 87551 61530,24,0,3.1653280852,14.1500115597,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,KINGSCLERE,BRAMLEY (ANDO-THAT),THATCHAM,6.75/25.0,51.33095,-1.2552777,SU 51982 59358,9.8,0,1.4936767817,6.120510428,0,0,50,Constrained,,,Unconstrained,,,Yes,No,Fault level reinforcement required at Thatcham 33kV. Approaching 100% loading on 132kV circuits from Bramley to Thatcham on import,33/11,Red
+ENGLAND,KINTBURY,BRAMLEY (ANDO-THAT),THATCHAM,5.9/13.1,51.402073,-1.4600535,SU 37657 67143,10,0,0.9593445063,5.7600918918,0.2,0,50,Constrained,,,Unconstrained,,,Yes,No,Fault level reinforcement required at Thatcham 33kV. Approaching 100% loading on 132kV circuits from Bramley to Thatcham on import,33/11,Red
+ENGLAND,KNOWL HILL,FLEET BRAMLEY,MAIDENHEAD,5.55/25.0,51.504816,-0.80771168,SU 82849 79105,6.5,0,0.6401471496,4.1494729065,0,0,50,Constrained,,,Partially Constrained,,,Yes,Yes,"Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for export",33/11,Amber
+ENGLAND,LABURNUM ROAD,FLEET BRAMLEY,ALDERSHOT,12.25/25.0,51.246972,-0.76900031,SU 86017 50475,36.3,0,6.1886439323,25.1512367308,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,3x33kV circuit ratings are 16.8MVA in summer. Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,LAMBOURN,BRAMLEY (ANDO-THAT),THATCHAM,5.7/25.0,51.501915,-1.521934,SU 33280 78217,9.8,0,1.4337838888,7.9867159811,0,11,50,Constrained,,,Unconstrained,,,Yes,No,Fault level reinforcement required at Thatcham 33kV. Approaching 100% loading on 132kV circuits from Bramley to Thatcham on import,33/11,Amber
+ENGLAND,LANGLEY,FAWLEY,LANGLEY,9.66/25,50.810561,-1.360435,SU 45158 01418,15,0,2.0585685266,9.0683308564,8.33,0,50,Constrained,,,Constrained,,,No,Yes,"Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. ",33/11,Red
+ENGLAND,LANGLEY COURT,FLEET BRAMLEY,ALTON & FERNHURST,7.89/25.0,51.055166,-0.84785962,SU 80847 29056,24,0,2.36,10.004781075,0.217,5,50,Constrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,LARKHILL,AXMINSTER,YEOVIL,9.57/25.0,50.949788,-2.6608023,ST 53677 16914,23,0,2.4832917158,12.829052777,0,25,50,Constrained,,,Unconstrained,,,Yes,Yes,"Moderate Proximity to thermal rating on short section of 132kV circt Axminster-Yeovil under FCO,There is no reverse power capacity at the Yeovil BSP",33/11,Red
+ENGLAND,LEAFIELD,COWLEY,WITNEY & YARNTON,6.15/13.1,51.835224,-1.5619245,SP 30282 15270,6.5,0,0.854688704,4.4058499612,0,3,50,Constrained,,,Unconstrained,,,Yes,No,Upstream voltage constraints.,33/11,Red
+ENGLAND,LEAMINGTON PARK,WILLESDEN,ACTON LANE,12.3/13.1,51.51989,-0.26407339,TQ 20539 81536,2 x 10, -   ,4.2,16.2, -   ,9,50,Unconstrained,,,Unconstrained,To be upgraded but still limited by the CB at ACTL BSP,TBC,No,No,None known,22/6.6,Green
+ENGLAND,LECHLADE,MINETY,Stratton (2 x 60),5.5/13.1,51.702776,-1.6819781,SP 22074 00496,7.5,0,1.1128395796,7.4738060962,0,0,50,Constrained,,,Constrained,,,Yes,Yes,thermal constraint on Minety - Galileo 132kV cct,33/11,Red
+ENGLAND,LECKHAMPSTEAD,BRAMLEY (ANDO-THAT),THATCHAM,4.52/13.1,51.495955,-1.3681218,SU 43962 77635,6.5,0,2.1643071175,4.8117495636,0,7,50,Constrained,,,Unconstrained,,,Yes,No,Fault level reinforcement required at Thatcham 33kV. Approaching 100% loading on 132kV circuits from Bramley to Thatcham on import,33/11,Amber
+ENGLAND,LEE-ON-SOLENT,LOVEDEAN,"Fareham T1B T2B (1x90, 1x60MVA)",7.74/13.1,50.799417,-1.1945652,SU 56858 00293,24,0,2.8166475296,13.7866592535,0,24,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Partialy constraint due to limited reverse power capacity,33/11,Amber
+ENGLAND,LEIGH PARK,LOVEDEAN,HAVANT,13.0/25,50.865889,-0.97620345,SU 72144 07875,30.5,0,4.3613991401,20.51774499,3.743,31,50,Unconstrained,,,Unconstrained,Switchgear -E reinforcement (Completed. FL results include new rating).,,Yes,Yes,Proximity to fault rating,33/11,Green
+ENGLAND,LITTLE HUNGERFORD,FLEET BRAMLEY,READING,14.40/17.5,51.442159,-0.91692717,SU 75372 72019,42,0,8.4133634567,25.6519898432,4.08,35,50,Constrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,LITTLE MARLOW,COWLEY,HIGH WYCOMBE,7.78/20.0,51.582448,-0.75966907,SU 86037 87794,30,0,5.0496406555,17.6615957433,0,21,50,Unconstrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,LORDSHILL,NURSLING,ROWNHAMS,11.64/13.1,50.94264,-1.4498898,SU 38746 16055,30,0,2.7796965397,14.6933899037,0,28,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,LOVE LANE,BRAMLEY (ANDO-THAT),THATCHAM,8.85/25.0,51.413506,-1.320772,SU 47334 68495,40,0,6.4929213524,21.0047101434,0,46,50,Constrained,,,Unconstrained,,,Yes,No,Fault level reinforcement required at Thatcham 33kV. Approaching 100% loading on 132kV circuits from Bramley to Thatcham on import,33/11,Amber
+ENGLAND,LOVELACE ROAD,COWLEY,WITNEY & YARNTON,4.74/13.1,51.789778,-1.270757,SP 50395 10376,12,0,1.1169234514,5.8241243225,0,3,50,Constrained,,,Unconstrained,,,Yes,No,Single security Primary.,33/11,Red
+ENGLAND,LYMINGTON,MANNINGTON GSP,ARNEWOOD,9.28/13.1,50.770427,-1.5515469,SZ 31720 96856,30,0,3.8604664803,17.9820742466,2.17,0,50,Constrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,LYNEHAM,MELKSHAM,CHIPPENHAM,7.41/13.1,51.523244,-2.0107905,ST 99348 80481,7.5,0,2.6268595715,11.6671334686,2.75,1,50,Constrained,,,Constrained,,,Yes,No,Constrained due to upstream thermal limitations.,33/11,Red
+ENGLAND,MAIDEN NEWTON,CHICKERELL GSP,CHICKERELL,6.49/25.0,50.777853,-2.5809203,SY 59138 97747,10,0,0.042651863,10.6757585624,3.71,14,50,Constrained,,,Unconstrained,,,Yes,Yes,There is no reverse power capacity at the Chickerell BSP,33/11,Amber
+ENGLAND,MAIDENHEAD,FLEET BRAMLEY,MAIDENHEAD,13/13.1,51.510519,-0.75516733,SU 86485 79800,45,0,1.1288310289,10.2209741009,0,17.14,50,Constrained,,,Unconstrained,,,No,Yes,"Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportFleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for export",33/11,Amber
+ENGLAND,MALMESBURY,MELKSHAM,CHIPPENHAM,7.29/13.1,51.586238,-2.1127057,ST 92288 87493,10,0,5.7002506256,28.3009841407,1.079,0,50,Constrained,,,Constrained,,,Yes,No,"Constrained due to upstream thermal limitations, local voltage constraint.",33/11,Red
+ENGLAND,MANCHESTER ROAD,MINETY,SWINDON,11.66/13.1,51.564843,-1.7813304,SU 15254 85130,37,0,3.8219726086,10.4628269844,0,10,50,Constrained,,,Unconstrained,,,Yes,Yes,"Constrained by BSP transformer capacity, National Grid reinforcement works required at Minety with an expected completion in 2025-2027 and  fault level constraints at primary",33/11,Amber
+ENGLAND,MANNINGTON,MANNINGTON GSP,MANNINGTON,8.17/13.1,50.846777,-1.8935317,SU 07592 05256,15,0,7.0904278755,28.7694144748,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,BSP Transformer rating under N-1,33/11,Red
+ENGLAND,MARKET,LOVEDEAN,CHICHESTER & HUNSTON,10.71/13.1,50.835668,-0.7732902,SU 86479 04732,20,0,1.3860547543,7.870278975,0,9,50,Constrained,,,Unconstrained,,,Yes,Yes,"There is no reverse power capacity at the BSB and new generations will requier new BSP Transformer, AVC reinfocement, 33kV switchgear reinforcement at Chichester BSP",33/11,Amber
+ENGLAND,MARLBOROUGH SOUTH,MELKSHAM,WEST GRAFTON,4.49/25.0,51.413071,-1.7239782,SU 19293 68264,15,0,2.9652466774,15.1135104258,0,0,50,Constrained,,,Unconstrained,,,Yes,No,Constrained by 132kV system capacity.,33/11,Red
+ENGLAND,MAYBUSH,NURSLING,ROWNHAMS,13.21/25,50.932545,-1.4545625,SU 38426 14930,26,0,3.8713662624,11.8762521125,2,28,50,Unconstrained,,,Unconstrained,Maybush-E switchgear reinforcement,01/03/21,Yes,Yes,None known,33/11,Green
+ENGLAND,MELKSHAM TOWN,MELKSHAM,NORRINGTON,13.24/25,51.375831,-2.1426167,ST 90170 64096,30,10,3.621275425,15.8711666911,8.829,15,50,Constrained,,,Partially Constrained,,,Yes,No,None Known,33/11,Green
+ENGLAND,MEYRICK ROAD,LOVEDEAN,HAVANT,8.45/25.0,50.853407,-0.99487409,SU 70849 06469,25.4,0,5.2502307892,23.9869350799,0,29,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,MIDDLE WALLOP,MELKSHAM,ANDOVER,4.37/13.1,51.159812,-1.5583093,SU 30984 40155,7,0,4.1914401054,18.4193313587,4.8,0,50,Constrained,,,Constrained,,,Yes,No,"Wide constraints on 33kV, 132kV systems and BSP capacity.",33/11,Red
+ENGLAND,MIDHURST,FLEET BRAMLEY,ALTON & FERNHURST,8.38/13.1,50.968682,-0.74631968,SU 88127 19555,30,0,0.8464177914,4.6059385645,5,19,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,MILBORNE PORT,AXMINSTER,YEOVIL,2.49/13.1,50.97618,-2.4581769,ST 67929 19741,3.5,0,3.4021766186,12.9510895916,4,0,50,Constrained,,,Constrained,,,Yes,Yes,Constrained due to Primary transformers limitations.There is no reverse power capacity at the Yeovil BSP,33/11,Red
+ENGLAND,MILFORD,FLEET BRAMLEY,ALDERSHOT,6.43/20.0,51.178561,-0.64632756,SU 94719 43018,24,0,0.5841650047,3.1259818667,0.177,26,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,MILFORD-ON-SEA,MANNINGTON GSP,ARNEWOOD,7.28/25.0,50.739051,-1.6009933,SZ 28252 93347,13,0,3.609210968,12.560353469,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,No spare bay.,33/11,Red
+ENGLAND,MILL LANE,MANNINGTON GSP,MANNINGTON,8.88/13.1,50.850032,-1.7926828,SU 14691 05633,22.9,0,1.8899583817,9.584899844,8.6,0,50,Constrained,,,Constrained,,,Yes,Yes,BSP Transformer rating under N-1,33/11,Red
+ENGLAND,MILTON,COWLEY,DRAYTON,15.49/16.0,51.625145,-1.2792202,SU 49992 92060,46.4,0,4.657181263,20.1904323683,6.837,7,50,Constrained,33kV reinforcements between Milton - Drayton,,Unconstrained,,,Yes,No,Upstream thermal constraints.,33/11,Green
+ENGLAND,MINCHINGTON,MANNINGTON GSP,SHAFTESBURY,2.53/12.0,50.930117,-2.0559557,ST 96164 14520,5,0,9.7637996674,39.2830153173,0,0,50,Unconstrained,,,Constrained,,,Yes,Yes,Constrained due to Primary transformers limitations under FCO.,33/11,Red
+ENGLAND,MINETY VILLAGE,MINETY,CIRENCESTER,6.38/13.1,51.626203,-1.9776039,SU 01647 91932,15,0,0.4232744277,3.0175875216,3.158,0,50,Constrained,,,Partially Constrained,,,Yes,Yes,"voltage constraint on 33kV system, thermal constraint on BSP transformers and upstream 132kV feeders",33/11,Red
+ENGLAND,MORTIMER,FLEET BRAMLEY,BURGHFIELD RESERVE,5.32/13.1,51.372583,-1.107289,SU 62236 64103,15,0,1.0689612627,4.290973886,0,11,50,Constrained,,,Unconstrained,,,No,Yes,Circa 7MW export headroom on 33kV circuits upstream. Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,MVEE,FLEET BRAMLEY,BRACKNELL RESERVE,8.01/13.1,51.384081,-0.59139871,SU 98120 65945,30,0,1.6918176413,8.945254803,0,30,50,Unconstrained,,,Unconstrained,,,Yes,Yes,BSP 33kV CBs close to fault rating,33/11,Amber
+ENGLAND,NETHERHAMPTON,MANNINGTON GSP,SALISBURY,8.1/13.1,51.061123,-1.8233211,SU 12478 29102,13,0,0.6706303954,3.9289993523,9.8,0,50,Unconstrained,,,Constrained,,,Yes,Yes,Constrained due to upstream thermal limitations.,33/11,Red
+ENGLAND,NETLEY COMMON 11KV,BOTLEY WOOD GSP,NETLEY COMMON,12.25/13.1,50.905741,-1.3241885,SU 47615 12025,30,0,7.3373060226,28.4296906826,0,34.6,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,NEW MILTON,MANNINGTON GSP,ARNEWOOD,9.26/13.1,50.753623,-1.6746266,SZ 23049 94942,30,0,6.0351490974,20.2709707514,2.749,0,50,Constrained,,,Constrained,,,Yes,Yes,No spare bay.,33/11,Red
+ENGLAND,NEW STREET,MANNINGTON GSP,MANNINGTON,4.11/25.0,50.841745,-1.7850217,SU 15233 04713,5,0,0.407252,1.802,0,0,50,Constrained,,,Constrained,,,Yes,Yes,Constrained due to Primary transformers limitations under FCO.,33/11,Red
+ENGLAND,NEWPORT ,FAWLEY,COWES & WOOTTON COMMON,11.22/13.1,50.703387,-1.2922503,SZ 50076 89544,38,0,6.2606398026,29.9817354534,0,0,50,Constrained,,,Constrained,,,No,Yes,"Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+ANM scheme in place on IOW to ease some of the 132kV constraints. 
+11kV CBs reinforcement will be required.Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+ANM scheme in place on IOW to ease some of the 132kV constraints. 
+11kV CBs reinforcement will be required.Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+ANM scheme in place on IOW to ease some of the 132kV constraints. 
+11kV CBs reinforcement will be required.Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+ANM scheme in place on IOW to ease some of the 132kV constraints. 
+11kV CBs reinforcement will be required.Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+ANM scheme in place on IOW to ease some of the 132kV constraints. 
+11kV CBs reinforcement will be required.Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+ANM scheme in place on IOW to ease some of the 132kV constraints. 
+11kV CBs reinforcement will be required.Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+ANM scheme in place on IOW to ease some of the 132kV constraints. 
+11kV CBs reinforcement will be required.Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+ANM scheme in place on IOW to ease some of the 132kV constraints. 
+11kV CBs reinforcement will be required.Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+ANM scheme in place on IOW to ease some of the 132kV constraints. 
+11kV CBs reinforcement will be required.Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+ANM scheme in place on IOW to ease some of the 132kV constraints. 
+11kV CBs reinforcement will be required.Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+ANM scheme in place on IOW to ease some of the 132kV constraints. 
+11kV CBs reinforcement will be required.Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+ANM scheme in place on IOW to ease some of the 132kV constraints. 
+11kV CBs reinforcement will be required.",33/11,Red
+ENGLAND,NORMANDY,FLEET BRAMLEY,ALDERSHOT,2.61/16.0,51.267587,-0.66518648,SU 93221 52894,2.5,0,0.5123946071,2.6618690331,0,3,50,Unconstrained,,,Constrained,,,Yes,Yes,Constrained due to Primary transformers limitations. Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,NORTH BADDESLEY,NURSLING,ROWNHAMS,10.55/13.1,50.983265,-1.4588978,SU 38080 20568,19.5,0,4.2001843452,15.7887791028,0,23,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,NORTH FAREHAM,LOVEDEAN,Fareham T1A T2A (90MVAs),7.5/13.1,50.863632,-1.1995839,SU 56427 07430,15.2,0,1.4372724295,15.2820092565,0,17,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Partialy constraint due to limited reverse power capacity,33/11,Amber
+ENGLAND,NORTH FELTHAM,LALEHAM,EAST BEDFONT A,10.0/25.0,51.461977,-0.40377787,TQ 10987 74875,1 x 12.5 2 x 11.5, -   ,9,23.5,2.3,17,50,Unconstrained,,,Unconstrained,,,No,No,None known,44887,Green
+ENGLAND,NORTH HINKSEY,COWLEY,OXFORD (Osney),7.11/25.0,51.736233,-1.2969614,SP 48645 04403,9.8,0,1.4327104092,7.0499863069,1.3,9,50,Unconstrained,,,Constrained,,,Yes,No,No spare bay.,33/11,Red
+ENGLAND,NORTHLEACH,MINETY,CIRENCESTER,5.78/25.0,51.82678,-1.8482202,SP 10557 14251,10,0,1.5851264,6.5920029525,0,0,50,Constrained,,,Constrained,,,Yes,Yes,thermal constraint on BSP transformers and upstream 132kV feeders,33/11,Red
+ENGLAND,NORTHOLT,IVER 66KV,,11.84/13.1,51.536961,-0.39303821,TQ 11550 83230,38,0,7.2910180092,28.2427462959,0,44,50,Unconstrained,,,Unconstrained,,,No,No,None known,66/11,Green
+ENGLAND,NORTHUMBERLAND AVENUE,FLEET BRAMLEY,READING,12.83/25.0,51.434236,-0.96264619,SU 72207 71092,25,0,4.5724802017,17.4192717036,3,27,50,Constrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,NUFFIELD,COWLEY,HIGH WYCOMBE,3.47/25.0,51.57579,-1.0153895,SU 68329 86784,7,0,0.9602207541,5.0384813053,0,1,50,Constrained,,,Unconstrained,,,Yes,No,Upstream Voltage & thermal issues.,33/11,Red
+ENGLAND,OAKRIDGE,BRAMLEY (BASI),BASINGSTOKE T3 & T4,7.94/13.1,51.278591,-1.0910467,SU 63496 53664,30,0,2.6291759014,10.1190034207,0,32,50,Constrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,OLD ROAD,COWLEY,HEADINGTON,10.83/13.1,51.753807,-1.200654,SP 55274 06426,30,0,5.5366249084,16.8533041659,0.344,11,50,Unconstrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,OSNEY,COWLEY,OXFORD (Osney),9.26/13.1,51.749568,-1.2749825,SP 50148 05901,30,0,5.31,24.0473611314,0.504,11,50,Unconstrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,OVERTON,BRAMLEY (BASI),BASINGSTOKE T1B & T2B,9.58/13.1,51.255014,-1.2553727,SU 52061 50913,16,0,1.0459994078,14.6826676196,11.6,6,50,Constrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,PADWORTH,FLEET BRAMLEY,BURGHFIELD RESERVE,3.65/13.1,51.390105,-1.1068476,SU 62243 66052,5,0,0.4814164937,3.3781487189,0,5,50,Constrained,,,Constrained,,,Yes,Yes,Constrained due to Primary transformers limitations. Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,PANGBOURNE,FLEET BRAMLEY,BURGHFIELD RESERVE,8.51/25.0,51.480757,-1.0947532,SU 62960 76144,30,0,1.9775975943,11.3159840314,0,20,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Green
+ENGLAND,PARK GATE,BOTLEY WOOD GSP,BOTLEY WOOD,8.27/13.1,50.871557,-1.2713317,SU 51369 08259,30,0,4.8896895712,21.8538918767,0,27,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,PARK HOUSE,BRAMLEY (ANDO-THAT),AMESBURY,4.3/25.0,51.192777,-1.6702724,SU 23138 43780,4,0,0.1828992069,3.3019647427,0,4,50,Constrained,,,Constrained,,,Yes,No,Constrained due to Primary transformers limitations. Connections might not be possible prior to Andover-Amesbury reconfiguration scheme. Upstream 132kV capacity for export is circa 15MVA flexible,33/11,Red
+ENGLAND,PARK NORTH,MINETY,Stratton (2 x 90),9.27/13.1,51.559474,-1.7409951,SU 18052 84542,30,0,4.8778142929,19.4528686708,1,15,50,Partially Constrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,PARK ROYAL,WILLESDEN,ACTON LANE,12.1/13.1,51.526078,-0.26963324,TQ 20137 82215,2 x 11.5, -   ,2.5,10.2, -   ,8,50,Unconstrained,,,Partially Constrained,,,No,No,CB fault ratings close to the limit,22/6.6,Amber
+ENGLAND,PARKSTONE NORTH,MANNINGTON GSP,BOURNEMOUTH,9.58/13.1,50.729707,-1.9557135,SZ 03222 92233,29.8,0,5.442056179,24.5610312488,0,35,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,PARKSTONE SOUTH,MANNINGTON GSP,BOURNEMOUTH,11.38/25.0,50.708249,-1.9339239,SZ 04762 89848,30,0,2.4538974762,9.3779587624,0,32,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,PEACOCK FARM,FLEET BRAMLEY,WOKINGHAM,7.36/25.0,51.411076,-0.78252935,SU 84770 68709,15,0,1.255907774,7.0238267512,31.6,16,50,Unconstrained,,,Unconstrained,,,Yes,Yes,BSP approaching transformer reverse power capacity. ,33/11,Green
+ENGLAND,PERIVALE,WILLESDEN,PERIVALE,13.8/25.0,51.533202,-0.3067492,TQ 17544 82947,2 x 20/40, -   ,14.2,36.2, -   ,34,50,Unconstrained,,,Unconstrained,,,No,No,None known,66/11,Green
+ENGLAND,PETERSFIELD,FLEET BRAMLEY,ALTON & FERNHURST,6.02/13.1,51.005395,-0.94421714,SU 74173 23420,30,0,5.3461651802,21.1768682391,0.25,5,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,PETERSFIELD AVENUE,IVER 132KV,CHALVEY,18.63/25.0,51.512992,-0.58759947,SU 98108 80286,42,0,12.89,37.9,3.94,30,50,Unconstrained,,,Unconstrained,,,No,No,None known,33/11,Green
+ENGLAND,PETERSFINGER,MANNINGTON GSP,SALISBURY,6.61/13.1,51.063133,-1.7786479,SU 15608 29334,14,0,2.3891208172,13.4211014638,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,Constrained due to upstream thermal limitations.,33/11,Red
+ENGLAND,PEWSEY,BRAMLEY (ANDO-THAT),AMESBURY,2.84/25.0,51.332175,-1.7902459,SU 14710 59252,17,0,1.3395937681,9.541274504,0,17,50,Constrained,,,Unconstrained,,,Yes,No,Connections might not be possible prior to Andover-Amesbury reconfiguration scheme. Upstream 132kV capacity for export is circa 15MVA flexible,33/11,Amber
+ENGLAND,PIDDLETRENTHIDE,CHICKERELL GSP,CHICKERELL,5.37/13.1,50.797069,-2.4246389,SY 70169 99809,5,0,0.3106562455,3.3655786362,0,6,50,Constrained,,,Partially Constrained,,,No,Yes,Moderate proximity to Primary transformers limitations.There is no reverse power capacity at the Chickerell BSP,33/11,Amber
+ENGLAND,PINGEWOOD,FLEET BRAMLEY,READING,6.1/25.0,51.40989,-1.0131186,SU 68735 68336,14.3,0,1.463193655,7.9179124505,0,15,50,Constrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,PLAISTOW,FLEET BRAMLEY,ALTON & FERNHURST,3.39/20.0,51.056914,-0.54497086,TQ 02071 29626,4.85,0,0.9897364974,7.2907724852,0.322,10,50,Unconstrained,,,Constrained,,,Yes,Yes,Constrained due to Primary transformers limitations.,33/11,Red
+ENGLAND,PLESSEY,MINETY,Stratton (2 x 90),8.58/20.0,51.579107,-1.7649981,SU 16381 86720,15,0,2.7434880733,10.9633073599,0,7,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,PLESSEY TITCHFIELD,LOVEDEAN,Fareham T1A T2A (90MVAs),8.07/12.5,50.859352,-1.2428073,SU 53390 06922,30,0,3.9507551193,14.6981571748,0,16,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Partialy constraint due to limited reverse power capacity,33/11,Amber
+ENGLAND,POOLE (HILL STREET),MANNINGTON GSP,POOLE PS (HAMWORTHY),12.6/13.1,50.714984,-1.9859111,SZ 01091 90595,23,0,4.0118041039,13.9036284344,3.4,0,50,Unconstrained,,,Constrained,,,Yes,Yes,Proximity to fault rating,33/11,Red
+ENGLAND,PORTCHESTER,LOVEDEAN,WYMERING & FORT WIDLEY,11.14/13.1,50.846379,-1.1201082,SU 62043 05575,19.5,0,4.3118171692,15.3926067216,3.5,18,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,PORTLAND,CHICKERELL GSP,CHICKERELL,8.70/13.1,50.564353,-2.4488323,SY 68307 73941,18.1,0,2.8349375725,11.8873853789,2.4,18,50,Constrained,,,Unconstrained,,,No,Yes,There is no reverse power capacity at the Chickerell BSP,33/11,Amber
+ENGLAND,PORTSMOUTH,LOVEDEAN,PORTSMOUTH,11.35/25.0,50.793272,-1.1017811,SZ 63405 99685,40,0,3.1978149414,12.3289863852,1.25,23,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,PORTWAY,MELKSHAM,ANDOVER,10.33/13.1,51.212183,-1.5088758,SU 34402 46001,26,0,1.5968515873,17.3870183675,12.326,0,50,Constrained,,,Unconstrained,,,Yes,No,"Thermal constraint on upstream 132kV system with noheadroom. NG reinforcement works required for Melksham SGT capacity constraints, estimated connection date for new applications is 2025-2027.",33/11,Red
+ENGLAND,POYLE,IVER 132KV,LONGFORD,10.99/25.0,51.46952,-0.51239019,TQ 03425 75555,25.7,0,4.9230365753,20.76,0,17.8,50,Unconstrained,,,Unconstrained,,,No,No,None known,33/11,Green
+ENGLAND,PRESSED STEEL SWINDON,MINETY,Stratton (2 x 90),12.91/31.5,51.575925,-1.7566161,SU 16963 86368,10,0,1.8237492168,9.0937457278,0,5,50,Unconstrained,,,Unconstrained,11kV CB reinforcement,45382,Yes,Yes,None known,33/11,Red
+ENGLAND,PRESTON CANDOVER,FLEET BRAMLEY,ALTON & FERNHURST,7.28/25.0,51.166193,-1.1306863,SU 60879 41131,15,0,1.06,4.9649701333,20,0,50,Unconstrained,,,Unconstrained,,,Yes,Yes,33kV circuit reinforcement is required for any new connection. Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,PUDDLETOWN,CHICKERELL GSP,CHICKERELL,4.49/13.1,50.754371,-2.3667397,SY 74226 95039,6.3,0,0.4629636109,2.5867979519,0,6,50,Constrained,,,Partially Constrained,,,No,Yes,Moderate proximity to Primary transformers limitations.There is no reverse power capacity at the Chickerell BSP,33/11,Amber
+ENGLAND,PULHAM,AXMINSTER,YEOVIL,4.4/13.1,50.883844,-2.405384,ST 71579 09451,5,0,0.9765,5.208,0,7,50,Constrained,,,Unconstrained,,,Yes,Yes,"Moderate Proximity to thermal rating on short section of 132kV circt Axminster-Yeovil under FCO,There is no reverse power capacity at the Yeovil BSP",33/11,Red
+ENGLAND,PURBROOK,LOVEDEAN,WYMERING & FORT WIDLEY,8.22/13.1,50.865998,-1.048631,SU 67047 07819,13,0,1.19,7.1623813333,0,15,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,PYESTOCK 33/11,FLEET BRAMLEY,PYESTOCK,10.2/20.0,51.284088,-0.81213017,SU 82940 54553,24,0,0.9144960046,8.4479512083,0,0,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,QUARRY ROAD,MINETY,TOOTHILL,12.82/31.5,51.549106,-1.780252,SU 15334 83380,20,0,3.6081864834,14.8261005094,1.8,0,50,Constrained,,,Constrained,11kV CB reinforcement,45016,Yes,Yes,thermal constraint on Minety - Galileo 132kV cct,33/11,Red
+ENGLAND,QUEENSMEAD,FLEET BRAMLEY,CAMBERLEY RESERVE,7.82/13.1,51.293632,-0.75276547,SU 87062 55683,13,0,1.8314758539,8.4661139364,0,14,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,RAMSBURY,MELKSHAM,WEST GRAFTON,3.84/13.1,51.447303,-1.6074032,SU 27380 72108,8,0,0.854688704,4.5061293293,0,0,50,Constrained,,,Unconstrained,,,Yes,No,Constrained by 132kV system capacity.,33/11,Red
+ENGLAND,READING,FLEET BRAMLEY,READING,14.75/20.0,51.458165,-0.92778979,SU 74591 73788,55,0,9.5839185715,30.7446431901,1.14,65,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,READING TOWN,FLEET BRAMLEY,READING TOWN,8.40/13.1,51.461561,-0.97162812,SU 71540 74122,60,0,7.6589040756,32.0977870992,0.5,68,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,REDHILL,MANNINGTON GSP,REDHILL,8.5/25.0,50.764869,-1.8806724,SZ 08512 96149,39,0,2.9510154944,21.8339374139,8.71,0,50,Constrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,REDLANDS,CHICKERELL GSP,CHICKERELL,9.36/13.1,50.639646,-2.46618,SY 67131 82321,15,0,2.3776896,11.3090302501,0,17,50,Constrained,,,Unconstrained,,,No,Yes,There is no reverse power capacity at the Chickerell BSP,33/11,Amber
+ENGLAND,REDLYNCH,MANNINGTON GSP,SALISBURY,3.90/13.1,50.984276,-1.7296603,SU 19073 20576,9,0,1.44,7.5426426667,7.6,0,50,Constrained,,,Constrained,,,Yes,Yes,Constrained due to Primary transformers limitations under FCO.,33/11,Red
+ENGLAND,REGENTS PARK,NURSLING,Southampton (2 x 90),8.78/13.1,50.915584,-1.4427974,SU 39267 13050,30,0,3.2443284988,16.0257791299,1.2,32,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,RISSINGTON,COWLEY,WITNEY & YARNTON,3.07/16.0,51.87431,-1.7221537,SP 19225 19563,10.3,0,1.295536,5.9414398219,0,3,50,Constrained,,,Constrained,,,Yes,No,Limited space for extension. Upstream voltage issues.,33/11,Red
+ENGLAND,RIVERSIDE,BRAMLEY (ANDO-THAT),THATCHAM,12.11/20.0,51.401703,-1.3135866,SU 47846 67187,22.9,0,2.487429142,12.6528862985,0,25,50,Unconstrained,,,Unconstrained,,,Yes,No,Fault level reinforcement required at Thatcham 33kV. Approaching 100% loading on 132kV circuits from Bramley to Thatcham on import,33/11,Amber
+ENGLAND,ROCKBOURNE,MANNINGTON GSP,MANNINGTON,1.39/16.0,50.959601,-1.8359651,SU 11617 17810,2,0,0.3125718832,1.9803086648,0,0,50,Constrained,,,Constrained,,,Yes,Yes,Constrained due to Primary transformers limitations under FCO.,33/11,Red
+ENGLAND,ROMSEY,NURSLING,ROWNHAMS,8.37/13.1,50.988266,-1.4871633,SU 36092 21110,21,0,3.3001449108,16.4942414113,0,7.1,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Moderate proximity to 33kV circts limitations under FCO.,33/11,Green
+ENGLAND,ROSE GREEN,LOVEDEAN,CHICHESTER & HUNSTON,11.07/13.1,50.786615,-0.72499246,SZ 89974 99335,20,0,2.15,13.2669436213,8.045,9,50,Constrained,,,Unconstrained,,,Yes,Yes,"There is no reverse power capacity at the BSB and new generations will requier new BSP Transformer, AVC reinfocement, 33kV switchgear reinforcement at Chichester BSP",33/11,Amber
+ENGLAND,ROSE HILL,COWLEY,Cowley Local (2 x 90),10.95/13.1,51.723407,-1.2248894,SP 53637 03027,26,0,3.447439909,15.9115852317,0.8,29,50,Unconstrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,ROWDEN,MELKSHAM,CHIPPENHAM,8.93/13.1,51.452378,-2.1337171,ST 90805 72608,23,0,3.6087608751,21.3907684007,0,1,50,Constrained,,,Constrained,,,Yes,No,Constrained due to upstream thermal limitations.,33/11,Red
+ENGLAND,ROWNER PARK,LOVEDEAN,"Fareham T1B T2B (1x90, 1x60MVA)",8.92/13.1,50.803699,-1.1780298,SU 58018 00782,30,0,2.3983612061,8.5596957917,0,24,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Partialy constraint due to limited reverse power capacity,33/11,Amber
+ENGLAND,RYDE ,FAWLEY,COWES & WOOTTON COMMON,7.93/13.1,50.724336,-1.1576577,SZ 59554 91973,30,0,4.3955421448,18.4250051304,0,0,50,Constrained,,,Constrained,,,No,Yes,"Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. ",33/11,Red
+ENGLAND,SALISBURY CENTRAL,MANNINGTON GSP,SALISBURY,13.4/17.5,51.073483,-1.7984814,SU 14215 30481,40,0,7.6208000183,24.7180579154,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,Constrained due to upstream thermal limitations.,33/11,Red
+ENGLAND,SANDHURST,FLEET BRAMLEY,CAMBERLEY MAIN,7.22/13.1,51.34132,-0.80121898,SU 83597 60930,30,0,5.0496406555,21.2545369371,0.2,29,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,SANDOWN,FAWLEY,COWES & WOOTTON COMMON,7.71/13.1,50.662071,-1.1542019,SZ 59877 85052,15,0,3.0036203861,12.2415716966,1.98,0,50,Constrained,,,Constrained,,,No,Yes,"Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. ",33/11,Red
+ENGLAND,SELSEY,LOVEDEAN,CHICHESTER & HUNSTON,6.93/20.0,50.741901,-0.78724992,SZ 85667 94289,11.9,0,2.53,9.8923947121,0,9,50,Constrained,,,Unconstrained,,,Yes,Yes,"There is no reverse power capacity at the BSB and new generations will requier new BSP Transformer, AVC reinfocement, 33kV switchgear reinforcement at Chichester BSP",33/11,Amber
+ENGLAND,SHAFTESBURY,MANNINGTON GSP,SHAFTESBURY,9.5/16.0,51.009125,-2.2065547,ST 85605 23325,13,0,2.7559349537,11.9402626616,0.317,0,50,Constrained,,,Unconstrained,,,Yes,Yes,BSP Transformer rating under N-1,33/11,Red
+ENGLAND,SHALFLEET ,FAWLEY,COWES & WOOTTON COMMON,7.36/25.0,50.696006,-1.4233004,SZ 40828 88643,15,0,1.1583615541,7.6177995186,0,0,50,Constrained,,,Constrained,,,No,Yes,"Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. ",33/11,Red
+ENGLAND,SHANKLIN ,FAWLEY,COWES & WOOTTON COMMON,7.17/13.1,50.634046,-1.1839465,SZ 57809 81912,30,0,1.8218734919,12.0460582619,0,0,50,Constrained,,,Constrained,,,No,Yes,"Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. ",33/11,Red
+ENGLAND,SHERBORNE,AXMINSTER,YEOVIL,7.55/13.1,50.961757,-2.5142939,ST 63978 18163,10,0,2.2721234155,8.0970415238,0,7,50,Constrained,,,Partially Constrained,,,Yes,Yes,"Limited expansion space for CB connections,There is no reverse power capacity at the Yeovil BSP",33/11,Red
+ENGLAND,SHIPTON OLIFFE,MINETY,CIRENCESTER,2.89/13.1,51.87048,-1.9449936,SP 03884 19102,3,0,0.68,4.1707784,0,0,50,Constrained,,,Constrained,,,Yes,Yes,thermal constraint on BSP transformers and upstream 132kV feeders,33/11,Red
+ENGLAND,SHIRLEY,NURSLING,Southampton (2 x 90),8.35/25.0,50.92235,-1.4324589,SU 39988 13808,30,0,3.8286898136,16.1391945561,0,33,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,SHRIVENHAM,MINETY,Stratton (2 x 60),6.99/13.1,51.589473,-1.6581151,SU 23782 87902,15,0,1.760404706,6.5985093195,0,0,50,Constrained,,,Constrained,,,Yes,Yes,thermal constraint on Minety - Galileo 132kV cct,33/11,Red
+ENGLAND,SHROTON,MANNINGTON GSP,SHAFTESBURY,6.83/25.0,50.9222,-2.2097116,ST 85356 13659,24,0,1.99,10.521608189,6.6,0,50,Constrained,,,Unconstrained,,,Yes,Yes,BSP Transformer rating under N-1,33/11,Red
+ENGLAND,SIDNEY ROAD,LALEHAM,STAINES,9.8/13.1,51.435285,-0.50379132,TQ 04100 71760,2 x 15/30, -   ,2.8,14.1,1.3,17,50,Partially Constrained,,,Unconstrained,,,No,No,None known,33/11,Amber
+ENGLAND,SILKSTEAD,NURSLING,ROWNHAMS,5.3/13.1,51.018739,-1.3658454,SU 44578 24565,13,0,1.6544210332,7.6760632435,2.07,12,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,SILVER STREET,FLEET BRAMLEY,READING,12.22/13.1,51.449812,-0.96589104,SU 71957 72821,26.6,0,3.8713662624,18.3567197252,7,24,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Moderate proximity to fault rating. Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,SOMERFORD,MANNINGTON GSP,CHRISTCHURCH,11.62/13.1,50.741635,-1.7425521,SZ 18262 93590,26,0,4.9905846073,18.9908599645,1,0,50,Constrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,SOUTH BERSTED,LOVEDEAN,CHICHESTER & HUNSTON,11.42/16.0,50.79829,-0.66719087,SU 94025 00705,20,0,3.3861954212,21.1984601275,10.453,2,50,Constrained,,,Unconstrained,11kV switchgear rating is just above the Fault level at HV.,,Yes,Yes,"There is no reverse power capacity at the BSB and new generations will requier new BSP Transformer, AVC reinfocement, 33kV switchgear reinforcement at Chichester BSP",33/11,Amber
+ENGLAND,SOUTHBOURNE,MANNINGTON GSP,CHRISTCHURCH,11.74/25.0,50.72813,-1.8092022,SZ 13563 92074,19.5,0,2.5910720825,11.8410606581,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,SOUTHCOTE,FLEET BRAMLEY,BURGHFIELD RESERVE,11.45/16.0,51.436827,-1.0202497,SU 68199 71325,19.5,0,1.9721796513,9.2831521506,0.21,21,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,SPARKFORD,AXMINSTER,YEOVIL,6.88/13.1,51.027483,-2.560808,ST 60767 25496,5,0,0.5987732278,4.3066707929,0.2,7,50,Constrained,,,Unconstrained,,,Yes,Yes,"Moderate Proximity to thermal rating on short section of 132kV circt Axminster-Yeovil under FCO,There is no reverse power capacity at the Yeovil BSP",33/11,Red
+ENGLAND,SPRING QUARRY WEST,MELKSHAM,NORRINGTON,10.46/13.1,51.41725,-2.2261794,ST 84368 68717,30,0,0.9381694794,9.7451642531,12,15,50,Constrained,,,Unconstrained,,,Yes,No,None Known,33/11,Green
+ENGLAND,SPRINGFIELD ROAD,NORTH HYDE,NORTH HYDE (D),11.21/13.1,51.51353,-0.39589488,TQ 11409 80620,27.4,0,4.2908754349,19.4038255086,0,24,50,Unconstrained,,,Unconstrained,,,No,No,None known,22/6.6,Green
+ENGLAND,ST CROSS,NURSLING,WINCHESTER,10.24/13.1,51.050812,-1.3267595,SU 47287 28156,26,0,4.2885603905,16.2159321439,0.234,0,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,ST EBBES,COWLEY,OXFORD (Osney),10.39/25.0,51.748029,-1.2589141,SP 51259 05741,30,0,4.5877213478,18.674753019,0.7,11,50,Unconstrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,ST JOHNS,BRAMLEY (ANDO-THAT),THATCHAM,10.52/13.1,51.394356,-1.324232,SU 47113 66363,25.3,0,4.51151371,20.9073372642,0,25,50,Unconstrained,,,Constrained,,,Yes,No,Fault level reinforcement required at Thatcham 33kV. Approaching 100% loading on 132kV circuits from Bramley to Thatcham on import,33/11,Red
+ENGLAND,STANDLAKE,COWLEY,WITNEY & YARNTON,4.93/13.1,51.718523,-1.4379686,SP 38923 02349,6.5,0,0.4785341495,6.7465956081,2,3,50,Constrained,,,Constrained,,,Yes,No,Constrained due to Primary transformers limitations under FCO. Upstream thermal issues.,33/11,Red
+ENGLAND,STANTON FITZWARREN,MINETY,Stratton (2 x 60),9.15/25.0,51.617437,-1.7474106,SU 17585 90987,14,0,2.5931401205,12.4930700569,7.5,0,50,Constrained,,,Constrained,,,Yes,Yes,thermal constraint on Minety - Galileo 132kV cct,33/11,Red
+ENGLAND,STANWELL,LALEHAM,STAINES,9.0/13.1,51.443975,-0.47612389,TQ 06003 72766,2 x 15/30, -   ,3.3,10.4, -   ,18,50,Partially Constrained,,,Unconstrained,,,No,No,None known,33/11,Amber
+ENGLAND,STAPLEFORD,MANNINGTON GSP,SALISBURY,6.3/13.1,51.132937,-1.903181,SU 06871 37078,13,0,2.1559085846,7.0289223568,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,Constrained due to upstream thermal limitations.,33/11,Red
+ENGLAND,STOKENCHURCH,COWLEY,HIGH WYCOMBE,6.53/20.0,51.642717,-0.88683647,SU 77124 94355,9.8,0,2.0118911266,8.9368450877,0,1,50,Constrained,,,Unconstrained,,,Yes,No,Upstream voltage & thermal constraints.,33/11,Red
+ENGLAND,STRATTON,MINETY,Stratton (2 x 60),10.94/25.0,51.598124,-1.7559923,SU 16998 88837,30,0,3.9071483612,14.5376313612,6.1,0,50,Constrained,,,Partially Constrained,,,Yes,Yes,thermal constraint on Minety - Galileo 132kV cct,33/11,Red
+ENGLAND,SUNBURY CROSS,LALEHAM,STAINES,10.2/25.0,51.418306,-0.41873203,TQ 10053 69996,"2 x 15/30, 1 x 28", -   ,13.4,40.9,15.4,28,50,Partially Constrained,,,Unconstrained,,,No,No,None known,33/11,Amber
+ENGLAND,SUNGARD,LALEHAM,EAST BEDFONT A,7.0/25.0,51.468652,-0.3986786,TQ 11325 75625,2 x 12/24, -   ,5.3,7, -   ,29,95,Unconstrained,,,Unconstrained,,,No,No,None known,44887,Green
+ENGLAND,SUNNINGHILL,FLEET BRAMLEY,BRACKNELL RESERVE,7.52/13.1,51.399749,-0.65363807,SU 93757 67606,24,0,2.8959040642,12.981201521,0,27,50,Unconstrained,,,Unconstrained,,,Yes,Yes,BSP 33kV CBs close to fault rating,33/6.6,Green
+ENGLAND,SUTTON BENGER,MELKSHAM,CHIPPENHAM,6.81/13.1,51.519338,-2.0966001,ST 93394 80051,15,0,1.0516704321,11.7722022669,0.914,0,50,Constrained,,,Constrained,Transformer upgrade,44531,Yes,No,Constrained due to upstream thermal limitations.,33/11,Red
+ENGLAND,SUTTON LANE,IVER 132KV,UPTON,8.35/25.0,51.49707,-0.52935732,TQ 02185 78595,24,0,2.9,11.7,8.8,6.1,50,Unconstrained,,,Unconstrained,,,No,No,None known,22/11,Green
+ENGLAND,SWANAGE,MANNINGTON GSP,WAREHAM,5.29/25.0,50.613373,-1.9729521,SZ 02010 79296,13,0,2.5666746303,9.8191248111,0,0,50,Constrained,,,Constrained,,,Yes,Yes,Constrained due to upstream thermal limitations.,33/11,Red
+ENGLAND,SWINDON,MINETY,SWINDON,10.45/13.1,51.581428,-1.8217324,SU 12449 86967,60,0,8.0528688431,34.6752577568,5.66,10,50,Constrained,,,Unconstrained,,,Yes,Yes,"Constrained by BSP transformer capacity, National Grid reinforcement works required at Minety with an expected completion in 2025-2027 and fault level constraints at primary",33/11,Amber
+ENGLAND,TADLEY,BRAMLEY (ANDO-THAT),THATCHAM,7.61/25.0,51.360594,-1.1719102,SU 57753 62717,15.2,0,1.7832672596,8.2196540991,0.3,0,50,Unconstrained,,,Constrained,,,Yes,No,Fault level reinforcement required at Thatcham 33kV. Approaching 100% loading on 132kV circuits from Bramley to Thatcham on import,33/11,Red
+ENGLAND,TAPLOW,IVER 132KV,SLOUGH,9.82/25.0,51.522585,-0.67936622,SU 91721 81234,23,0,4.44,13.94,0,16,50,Unconstrained,,,Unconstrained,,,No,No,None known,33/11,Green
+ENGLAND,TARRANT RUSHTON,MANNINGTON GSP,SHAFTESBURY,4.55/25.0,50.865242,-2.0793804,ST 94510 07307,4,0,1.0211871862,3.7997302728,0,0,50,Constrained,,,Constrained,,,Yes,Yes,Constrained due to Primary transformers limitations under FCO.,33/11,Red
+ENGLAND,TEFFONT,MANNINGTON GSP,SALISBURY,3.05/13.1,51.078269,-2.0037037,ST 99837 30994,4.5,0,0.81,5.0098517333,0,0,50,Constrained,,,Partially Constrained,,,Yes,Yes,Moderate proximity to Primary transformers limitations under FCO.,33/11,Red
+ENGLAND,TEMPLE FARM,FLEET BRAMLEY,MAIDENHEAD,2.72/25.0,51.547472,-0.78743054,SU 84178 83872,4,0,0.7425448611,2.7262417725,0,0,50,Constrained,,,Constrained,,,Yes,Yes,"Voltage issues with the 33kV upstream network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportVoltage issues with the 33kV upstream network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportVoltage issues with the 33kV upstream network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportVoltage issues with the 33kV upstream network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for exportVoltage issues with the 33kV upstream network
+Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP
+Constrained on the 132kV circuits for export",33/11,Red
+ENGLAND,TETBURY,MELKSHAM,CHIPPENHAM,6.22/13.1,51.639703,-2.1501205,ST 89708 93444,7.5,0,1.4896003008,6.305216686,0,0,50,Constrained,,,Constrained,,,Yes,No,"Constrained due to upstream thermal limitations, local voltage constraint",33/11,Red
+ENGLAND,THATCHAM,BRAMLEY (ANDO-THAT),THATCHAM,14.81/25.0,51.394786,-1.2430882,SU 52758 66466,30,0,5.9498206443,31.4558026086,11.3,24,50,Unconstrained,,,Unconstrained,,,Yes,No,Fault level reinforcement required at Thatcham 33kV. Approaching 100% loading on 132kV circuits from Bramley to Thatcham on import,33/11,Red
+ENGLAND,THE GREEN,NORTH HYDE,NORTH HYDE (D),9.16/13.1,51.503292,-0.38177388,TQ 12414 79503,12,0,2.0257759004,10.4467118468,0,14,50,Unconstrained,,,Unconstrained,,,No,No,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,22/6.6,Red
+ENGLAND,THE MALL,FLEET BRAMLEY,READING TOWN,9.61/13.1,51.454136,-0.97497561,SU 71319 73293,26.5,0,3.6579840183,18.3946552937,0.149,30,50,Constrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,THEALE,FLEET BRAMLEY,BURGHFIELD RESERVE,7.58/20.0,51.434443,-1.0698459,SU 64755 71015,24,0,2.0606644154,8.8979751304,0.31,20,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,THRUXTON,MELKSHAM,ANDOVER,5.17/13.1,51.209534,-1.5843176,SU 29134 45674,5,0,1.1000483036,5.2473023745,18.95,0,50,Constrained,,,Unconstrained,,,Yes,No,"Thermal constraint on upstream 132kV system with no headroom. National Grid reinforcement works required for Melk SGT capacity constraints, est connection date for new applications is 2025-2027.",33/11,Red
+ENGLAND,TIDWORTH,MELKSHAM,WEST GRAFTON,4.28/25.0,51.245007,-1.6562893,SU 24088 49593,14,0,2.7678744793,9.598042143,0,0,50,Constrained,,,Unconstrained,,,Yes,No,Constrained by 132kV system capacity.,33/11,Red
+ENGLAND,TISBURY,MANNINGTON GSP,SHAFTESBURY,4.95/25.0,51.061442,-2.0950136,ST 93438 29127,9.12,0,1.0364288092,5.448763392,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,BSP Transformer rating under N-1,33/11,Red
+ENGLAND,TITCHFIELD,LOVEDEAN,Fareham T1A T2A (90MVAs),10.01/13.1,50.848253,-1.2328447,SU 54104 05695,15,0,2.1835238934,10.0365064057,0.321,17,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Partialy constraint due to limited reverse power capacity,33/11,Amber
+ENGLAND,TONGHAM,FLEET BRAMLEY,ALDERSHOT,9.82/16.0,51.23774,-0.73639986,SU 88310 49487,30,0,2.9071044922,15.4315963368,1.74,20,50,Constrained,,,Unconstrained,,,Yes,Yes,Voltage issues with the 33kV upstream network. Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,TOOTHILL,MINETY,TOOTHILL,14.75/18.4,51.554608,-1.8107888,SU 13215 83986,60,0,4.2177653313,23.9307143284,2.058,0,50,Constrained,,,Constrained,,,Yes,Yes,thermal constraint on Minety - Galileo 132kV cct,33/11,Red
+ENGLAND,TOTTON,NURSLING,ROWNHAMS,10.84/13.1,50.919206,-1.4915785,SU 35835 13428,24.5,0,3.9780576229,15.0780205508,2,26,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,TOWNHILL PARK,BOTLEY WOOD GSP,NETLEY COMMON,8.45/13.1,50.930737,-1.3588175,SU 45156 14783,30,0,4.2295440727,20.0906296987,0,34,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,TRADING ESTATE,MINETY,SWINDON,10.83/25.0,51.571523,-1.8067507,SU 13490 85868,21.6,0,1.7436389923,11.0648716357,2.57,10,50,Constrained,,,Unconstrained,,,Yes,Yes,"Constrained by BSP transformer capacity, National Grid reinforcement works required at Minety with an expected completion in 2025-2027.",33/11,Amber
+ENGLAND,TRASH GREEN,FLEET BRAMLEY,BURGHFIELD RESERVE,7.84/16.0,51.413862,-1.0487087,SU 66254 68745,15,0,1.9304801756,11.9683619038,1.7,15,50,Constrained,,,Unconstrained,,,Yes,Yes,Circa 7MW export headroom on 33kV circuits upstream. Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,TROWBRIDGE TOWN,MELKSHAM,NORRINGTON,11.16/13.1,51.321219,-2.2214012,ST 84668 58036,26,0,4.412984848,18.4995195561,2.5,8,50,Constrained,,,Unconstrained,,,Yes,No,None Known,33/11,Green
+ENGLAND,TWYFORD,FLEET BRAMLEY,READING,6.67/13.1,51.48058,-0.87198034,SU 78430 76339,15,0,2.6526932716,13.2487245131,0.1,17,50,Constrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Red
+ENGLAND,UNION STREET,COWLEY,Cowley Local (2 x 90),9.84/25.0,51.748851,-1.2356369,SP 52865 05849,30,0,3.6275007725,15.0916299103,0,34,50,Unconstrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,UPPER HEYFORD,EAST CLAYDON,BICESTER NORTH,8.1/13.1,51.927122,-1.2488285,SP 51750 25667,15,0,2.1948828787,12.7190049516,5.82,2,50,Constrained,,,Constrained,,,No,No,Constrained due to upstream thermal limitations. Limited expansion space for CB connections.,33/11,Red
+ENGLAND,UPTON,IVER 132KV,UPTON,10.40/13.1,51.50486,-0.54906267,TQ 00800 79434,26,0,5.5,22.8,0.4,18.1,50,Unconstrained,,,Unconstrained,,,No,No,None known,22/11,Green
+ENGLAND,UXBRIDGE,IVER 66KV,,10.33/20.0,51.540502,-0.48759615,TQ 04984 83484,72.8,0,11.55,45.5495132824,0,84,50,Unconstrained,,,Unconstrained,,,No,No,None known,66/11,Green
+ENGLAND,VELMORE,NURSLING,VELMORE,8.94/18.4,50.970668,-1.3898995,SU 42935 19205,30,0,7.4158204813,24.415795717,1.5,36,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,VENTNOR,FAWLEY,COWES & WOOTTON COMMON,9.41/16.0,50.597745,-1.2080428,SZ 56148 77857,30,0,1.8698495626,10.1418725613,0,0,50,Constrained,,,Constrained,,,No,Yes,"Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. Highly meshed GSP with several 132kV constraints for combined SSEN & NG SGT outages.
+A 3rd SGT has been triggered by SSEN (ModApp). 
+ANM scheme in place on IOW to ease some of the 132kV constraints. ",33/11,Red
+ENGLAND,VERWOOD,MANNINGTON GSP,MANNINGTON,6.79/13.1,50.891468,-1.8916672,SU 07716 10226,13,0,2.0861382484,10.7663958033,5,0,50,Constrained,,,Constrained,,,Yes,Yes,33kV upstream restrictions. No spare bay.,33/11,Red
+ENGLAND,WALLINGFORD,COWLEY,Cowley Local (2 x 45),7.61/13.1,51.601044,-1.1373111,SU 59847 89486,19.5,0,2.39,16.0186738112,4.494,18,50,Constrained,ANM scheme triggered upstream by accepted generation,,Unconstrained,,,Yes,No,ANM installed to avoid upstream 33kV thermal issues under FCO.,33/11,Red
+ENGLAND,WANTAGE,COWLEY,DRAYTON,9.40/13.1,51.59208,-1.405361,SU 41290 88304,19.5,0,2.39,14.3779028962,0.05,7,50,Constrained,,,Unconstrained,,,Yes,No,Upstream thermal constraints.,33/11,Amber
+ENGLAND,WAREHAM TOWN,MANNINGTON GSP,WAREHAM,7.54/13.1,50.686764,-2.114099,SY 92036 87463,13.9,0,2.6047656536,11.3887207367,0.1,0,50,Constrained,,,Constrained,,,Yes,Yes,Constrained due to upstream thermal limitations.,33/11,Red
+ENGLAND,WARFIELD,FLEET BRAMLEY,BRACKNELL MAIN,8.44/13.1,51.434774,-0.75039344,SU 86960 71382,22.1,0,5.4508209229,22.1609612946,0,4,50,Constrained,,,Unconstrained,,,Yes,Yes,"33kV circuits at capacity for export
+BSP 33kV CBs close to fault rating33kV circuits at capacity for export
+BSP 33kV CBs close to fault rating33kV circuits at capacity for export
+BSP 33kV CBs close to fault rating33kV circuits at capacity for export
+BSP 33kV CBs close to fault rating",33/11,Red
+ENGLAND,WARMINSTER,MELKSHAM,FROME,7.74/16.0,51.199972,-2.216983,ST 84936 44551,15,0,1.8698495626,8.4770637447,0,P371,50,Unconstrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,WATERLOOVILLE,LOVEDEAN,WYMERING & FORT WIDLEY,10.61/13.1,50.879042,-1.0349898,SU 67988 09282,45,0,5.6143732071,22.2049804312,0.05,25,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,WATLINGTON,COWLEY,HIGH WYCOMBE,5.72/25.0,51.643147,-1.0027024,SU 69106 94287,9.8,0,1.4191347994,6.377616,17,0,50,Constrained,,,Unconstrained,,,Yes,No,Upstream voltage & thermal constraints.,33/11,Red
+ENGLAND,WELL END,AMERSHAM,LOUDWATER,8.68/13.1,51.583531,-0.7239315,SU 88511 87957,24,0,5.68,21.7,7.2,22.48,50,Unconstrained,,,Unconstrained,,,No,No,None known,33/11,Green
+ENGLAND,WEST END,LOVEDEAN,Fareham T1A T2A (90MVAs),11.7/13.1,50.852019,-1.1885742,SU 57216 06147,30,0,3.3376815319,12.4382026667,0,26,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Partialy constraint due to limited reverse power capacity,33/11,Amber
+ENGLAND,WEST GRAFTON VILLAGE,MELKSHAM,WEST GRAFTON,7.52/13.1,51.341068,-1.6476615,SU 24639 60279,7.5,0,1.0064395666,6.1735522017,0.18,0,50,Constrained,,,Unconstrained,,,Yes,No,Constrained by 132kV system capacity.,33/11,Red
+ENGLAND,WEST HENDFORD,AXMINSTER,YEOVIL,12.38/13.1,50.936657,-2.6417877,ST 55000 15442,30,0,5.3577666219,19.2440536534,6.08,7,50,Constrained,,,Partially Constrained,,,Yes,Yes,"Moderate Proximity to thermal rating on short section of 132kV circt Axminster-Yeovil under FCO. Moderate proximity to fault rating,There is no reverse power capacity at the Yeovil BSP",33/11,Red
+ENGLAND,WEST STOUR,MANNINGTON GSP,SHAFTESBURY,6.4/13.1,50.997316,-2.3191625,ST 77699 22040,9.8,0,0.9289145145,5.2395393411,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,BSP Transformer rating under N-1,33/11,Red
+ENGLAND,WESTBOURNE,MANNINGTON GSP,BOURNEMOUTH,9.54/13.1,50.72294,-1.8931036,SZ 07642 91485,30,0,3.8635108471,15.7910072302,0,34,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,WESTBURY,MELKSHAM,FROME,10.00/13.1,51.262792,-2.178325,ST 87654 51530,30,0,2.5392558575,14.961289814,4.76,0,50,Constrained,,,Unconstrained,33kV Frome - Westbury circuit reinforcement  ,45382,Yes,No,33kV system thermal constraint.,33/11,Red
+ENGLAND,WESTBURY CEMENT,MELKSHAM,FROME,8.8/31.5,51.272,-2.1721967,ST 88084 52553,4,0,1.2558691406,13.9317448591,0,0,50,Constrained,,,Unconstrained,33kV CB reinforcement ,45382,Yes,No,Private network ,33/11,Red
+ENGLAND,WESTERN ESPLANADE,NURSLING,Southampton (2 x 90),8.8/31.5,50.906059,-1.4094747,SU 41618 12009,60,0,6.8917323347,33.1963356552,0.36,69,50,Unconstrained,,,Partially Constrained,,,Yes,Yes,Moderate proximity to fault rating.,33/11,Amber
+ENGLAND,WESTON,BOTLEY WOOD GSP,NETLEY COMMON,10.81/13.1,50.886934,-1.3586937,SU 45207 09912,26,0,1.7985088825,11.5415787327,2.6,25,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,WEYMOUTH,CHICKERELL GSP,CHICKERELL,12.73/20.0,50.610662,-2.4614839,SY 67443 79096,30,0,5.7937431335,23.7292161521,3.02,23,50,Constrained,,,Unconstrained,,,No,Yes,There is no reverse power capacity at the Chickerell BSP,33/11,Amber
+ENGLAND,WHEATLEY,COWLEY,HEADINGTON,8.9/16.0,51.743825,-1.121125,SP 60777 05379,15,0,2.0931153297,8.02668946,7.12,11,50,Unconstrained,Reinforcement of the 33/11kV Tx's and adjacent 33kV cct's under Ofgem Green Recovery funding,,Constrained,Reinforcement of the 33/11kV Tx's and adjcent 33kV cct's under Ofgem Green Recovery funding,45901,Yes,No,Limited space for extension.,33/11,Green
+ENGLAND,WHITCHURCH,MELKSHAM,ANDOVER,4.47/13.1,51.233538,-1.3436196,SU 45924 48466,5,0,0.7257606387,4.8463273268,0,0,50,Constrained,,,Unconstrained,,,Yes,No,z28,33/11,Red
+ENGLAND,WHITELEY,BOTLEY WOOD GSP,BOTLEY WOOD,8.52/25.0,50.876226,-1.2489868,SU 52936 08794,30,0,6.0074837586,23.960298073,0,27,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,WHITEWAY,MINETY,CIRENCESTER,7.83/13.1,51.726246,-1.9713441,SP 02076 03059,30,0,4.0270328522,23.6229114072,0,0,50,Constrained,,,Partially Constrained,,,Yes,Yes,thermal constraint on BSP transformers and upstream 132kV feeders,33/11,Red
+ENGLAND,WHITLEY WOOD,FLEET BRAMLEY,BURGHFIELD MAIN,8.65/13.1,51.421348,-0.95423686,SU 72812 69667,30,0,1.9656072855,7.561333356,0,30,50,Unconstrained,,,Unconstrained,,,No,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,WILSON ROAD,FLEET BRAMLEY,BURGHFIELD MAIN,11.35/25.0,51.454493,-1.0049612,SU 69235 73304,27.6,0,3.9993958473,15.7538105719,0,30,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Fleet GSP 132kV switchgear saturated for fault level capacity. 132kV reinforcement required at Fleet GSP,33/11,Amber
+ENGLAND,WIMBORNE,MANNINGTON GSP,MANNINGTON,8.46/13.1,50.799459,-1.9727891,SZ 02014 99989,19.5,0,3.7117910385,18.6866431038,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,BSP Transformer rating under N-1,33/11,Red
+ENGLAND,WIMBORNE ST GILES,MANNINGTON GSP,MANNINGTON,2.85/12.0,50.91356,-1.9582998,SU 03028 12678,1.5,0,0.1936131567,1.0823810913,0,0,50,Constrained,,,Constrained,,,Yes,Yes,Constrained due to Primary transformers limitations under FCO.,33/11,Red
+ENGLAND,WINCANTON,MANNINGTON GSP,SHAFTESBURY,6.62/25.0,51.048843,-2.4110034,ST 71286 27802,15,0,1.67,8.1053743209,14.9,0,50,Constrained,,,Unconstrained,,,Yes,Yes,BSP Transformer rating under N-1,33/11,Red
+ENGLAND,WINDRUSH PARK,COWLEY,WITNEY & YARNTON,8.46/16.0,51.785493,-1.5176973,SP 33366 09758,30,0,3.267585516,12.8994819676,0.83,3,50,Constrained,,,Unconstrained,,,Yes,No,Upstream Voltage & thermal constraints.,33/11,Red
+ENGLAND,WINSMORE LANE,COWLEY,DRAYTON,10.25/13.1,51.669439,-1.2854441,SU 49513 96982,26,0,4.3237156868,16.8180371071,0.001,7,50,Unconstrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,WINTERBORNE KINGSTON,MANNINGTON GSP,LYTCHETT,6.1/13.1,50.78261,-2.2193696,SY 84631 98138,9.8,0,1.4041314125,6.5204223845,0,0,50,Constrained,,,Unconstrained,,,Yes,Yes,BSP Transformer rating under N-1,33/11,Red
+ENGLAND,WITNEY TOWN,COWLEY,WITNEY & YARNTON,11.62/13.1,51.784144,-1.481789,SP 35844 09625,24,0,4.6230128772,20.3794267634,0,3,50,Constrained,,,Unconstrained,Reinforcement of the 33/11kV Tx's under Ofgem Green Recovery funding,45017,Yes,No,None known,33/11,Amber
+ENGLAND,WOKINGHAM,FLEET BRAMLEY,WOKINGHAM,7.98/25.0,51.402441,-0.85724149,SU 79589 67665,30,0,2.255756855,9.8504314177,0,0,50,constrained,,,Unconstrained,,,Yes,Yes,Voltage issues with the 33kV upstream network,33/11,Green
+ENGLAND,WOODCOTE,FLEET BRAMLEY,BURGHFIELD RESERVE,3.67/16.0,51.529859,-1.0726605,SU 64425 81624,5,0,1.0592911243,3.6490004046,0,6,50,Unconstrained,,,Partially Constrained,,,Yes,Yes,Moderate proximity to Primary transformers limitations.,33/11,Amber
+ENGLAND,WOODMILL LANE,NURSLING,Southampton (2 x 90),11.48/25.0,50.937024,-1.3789827,SU 43733 15470,24,0,2.3344340324,9.2574904043,0,25,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/6.6,Green
+ENGLAND,WOODSTOCK,COWLEY,WITNEY & YARNTON,7.81/13.1,51.853959,-1.3510276,SP 44795 17462,15,0,1.8398480415,8.7734717027,5.510.171,3,50,Constrained,,,Constrained,,,Yes,No,Limited space for extension.,33/11,Red
+ENGLAND,WOOLSTON,BOTLEY WOOD GSP,NETLEY COMMON,7.45/20.0,50.898975,-1.3736301,SU 44145 11242,16.9,0,4.060362339,13.8473775371,0,21,50,Partially Constrained,,,Unconstrained,,,Yes,Yes,Proximity to voltage issues.,33/6.6,Amber
+ENGLAND,WOOTTON BASSETT,MINETY,SWINDON,14.31/25.0,51.528968,-1.8920243,SU 07587 81123,24,0,1.4768090248,12.0728063339,23,0,50,Constrained,,,Unconstrained,,,Yes,Yes,33kV system thermal constraint with no remaining headroom,33/11,Red
+ENGLAND,WOOTTON ROAD,COWLEY,OXFORD (Osney),6.63/25.0,51.681033,-1.2891524,SU 49244 98269,18.2,0,2.8501791954,13.485349147,0.24,11,50,Unconstrained,,,Unconstrained,,,Yes,No,None known,33/11,Green
+ENGLAND,WRECCLESHAM,FLEET BRAMLEY,COXMOOR WOOD,7.64/25.0,51.192144,-0.8266165,SU 82093 44312,30,0,2.7800679207,14.5967472978,20,12,50,Constrained,,,Unconstrained,,,Yes,Yes,Limited headroom at BSP circa 15MVA,33/11,Amber
+ENGLAND,WROUGHTON,MINETY,TOOTHILL,10.67/13.1,51.532261,-1.7931348,SU 14446 81504,24,0,1.4860559702,9.660461468,4,0,50,Constrained,,,Constrained,,,Yes,Yes,thermal constraint on Minety - Galileo 132kV cct,33/11,Red
+ENGLAND,WYCOMBE MARSH,AMERSHAM,LOUDWATER,8.0/25.0,51.618469,-0.72192637,SU 88582 91845,17.3,0,2.33,11.1,0,19.63,50,Unconstrained,,,Unconstrained,,,No,No,None known,33/11,Green
+ENGLAND,WYMERING,LOVEDEAN,WYMERING & FORT WIDLEY,9.58/20.0,50.844259,-1.0785172,SU 64974 05375,60,0,13.0238285065,38.4573497687,4.135,25,50,Unconstrained,,,Unconstrained,,,Yes,Yes,None known,33/11,Green
+ENGLAND,YARNTON,COWLEY,WITNEY & YARNTON,11.33/25.0,51.805535,-1.3012215,SP 48277 12108,40,0,4.9260849953,24.5345960586,5,3,50,Unconstrained,,,Unconstrained,AVC upgrade at Yarnton 33/11kV Tx's,44774,Yes,No,None known,33/11,Green
+ENGLAND,YATTENDON,BRAMLEY (ANDO-THAT),THATCHAM,5.99/12.0,51.465194,-1.2283782,SU 53699 74307,13,0,2.499622345,10.6285756636,0,15,50,Constrained,,,Unconstrained,,,Yes,No,Fault level reinforcement required at Thatcham 33kV. Approaching 100% loading on 132kV circuits from Bramley to Thatcham on import,33/11,Amber
+ENGLAND,YATTON KEYNELL,MELKSHAM,CHIPPENHAM,9.06/13.1,51.480849,-2.184273,ST 87300 75782,15,0,0.9698100686,7.2332791937,0,0,50,Constrained,,,Constrained,33/11kV transformer reinforcement,44926,Yes,No,Constrained due to upstream thermal limitations.,33/11,Red
+ENGLAND,YEOVIL,AXMINSTER,YEOVIL,13.18/25,50.949369,-2.6036695,ST 57690 16833,20,0,3.5023783234,14.0912680673,10,7,50,Constrained,,,Unconstrained,Yeovil-E switchgear reinforcement (completed - FL results include new rating).,,Yes,Yes,"Moderate Proximity to thermal rating on short section of 132kV circt Axminster-Yeovil under FCO,There is no reverse power capacity at the Yeovil BSP",33/11,Red
+ENGLAND,YETMINSTER,AXMINSTER,YEOVIL,8.06/25.0,50.889965,-2.5658791,ST 60294 10206,7.5,0,1.5747702408,8.019215114,0.8,7,50,Constrained,,,Partially Constrained,,,Yes,Yes,"Moderate Proximity to thermal rating on short section of 132kV circt Axminster-Yeovil under FCO,There is no reverse power capacity at the Yeovil BSP",33/11,Red
+ENGLAND,YIEWSLEY,IVER 66KV,,10.53/13.1,51.517702,-0.47885336,TQ 05643 80961,60,0,7.93,39.4860657234,0,68,50,Unconstrained,,,Unconstrained,,,No,No,None known,66/11,Green
+ENGLAND,ZETLAND ROAD,LOVEDEAN,"Fareham T1B T2B (1x90, 1x60MVA)",10.17/13.1,50.796791,-1.141628,SU 60592 00043,26,0,4.2560009956,17.3314948236,0,24,50,Unconstrained,,,Unconstrained,,,Yes,Yes,Partialy constraint due to limited reverse power capacity,33/11,Amber
+ENGLAND,WINTON,MANNINGTON GSP,REDHILL,12.65/13.1,50.743931,-1.8688628,SZ 09349 93822,26,0,6.4929218292,23.0770933912,5.061,0,50,Constrained,,,Constrained,,,Yes,Yes,Proximity to fault rating,33/11,Amber

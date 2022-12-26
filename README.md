@@ -148,7 +148,7 @@ N.B. You can use my api key to begin with but please get your own free key here 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Exploring wind farms in the UK to see which have been approved and which rejected, where most are located, their size and load factor efficiency, and to see the truth from raw data of how well wind farms perform. Could be used to find potential new wind farm locations.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -167,7 +167,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [-] Most recent (month) data for electricity generation
 - [ ] Add offshore wind farms
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/github_username/windfarmsuk/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
